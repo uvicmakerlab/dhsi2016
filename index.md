@@ -15,7 +15,7 @@ DHSI Assistant Directors: Jason Boyd, Diane Jakacki, and Jentery Sayers
 * [Hardware for the Course](#hardware)
 * [Favourite Projects](#favourite-projects)
 * [Schedule for the Week](#schedule-for-the-week)  
-* [Suggestions for Prototyping](#some-suggestions-for-prototyping)
+* [Suggestions for Prototyping](#suggestions-for-prototyping)
 * [Bibliography](#bibliography)
 
 ## Theme: "From This to That"
@@ -95,11 +95,11 @@ Throughout the week, we (the instructors) will share our favourite physical comp
 * **1:30-3:00**, *3-D Scanning with an HDI 120* (Danielle): This afternoon we will use structured light scanning to convert a 3-D object into a cloud of data points and then into a 3-D model. 
 * **3:00-4:00**, *Review and Experimentation*
 
-## Thursday, June 16th (9:00-4:00) - From Idea to Prototype to Idea 
+### Thursday, June 16th (9:00-4:00) - From Idea to Prototype to Idea 
 
 * **9:00-4:00**, *Project Development*: You will prototype your own projects in small groups, with feedback from the instructors and others in the course.
 
-## Friday, June 17th (9:30-12:00) - From Prototype to Exhibit 
+### Friday, June 17th (9:30-12:00) - From Prototype to Exhibit 
 
 * **9:30-11:00**, *Finalize Prototypes*: During this session, you will finalize working versions of your prototypes, with assistance from the instructors and others in the course.
 * **11:00-12:00**, *Informal Presentations*: You will informally share your prototypes with others in the course, and we'll collectively reflect on the week. We'll also determine what to show during the course exhibit scheduled for 12:15.
@@ -135,17 +135,18 @@ For your reference, below we've compiled some "core" and "related" publications 
 
 *Core Reading*
 * Balsamo, Anne. [*Designing Culture*](http://www.designingculture.net/wordpress/wp-content/uploads/2010/06/Balsamo_essay_AcademicCommons.pdf) (2011)
-* Banzi, Massimo. ["Appendix C / Arduino Quick Reference,"](http://www.jcleonard.us/GSA/GSA%20Appendix%20C.pdf) *Getting Started with Arduino* (2009)
+* Banzi, Massimo. *Getting Started with Arduino*, including ["Appendix C / Arduino Quick Reference"](http://www.jcleonard.us/GSA/GSA%20Appendix%20C.pdf) (2009)
 * Belojevic, Nina. [“Circuit Bending Videogame Consoles as a Form of Applied Media Studies,”](http://www.nanocrit.com/issues/5/circuit-bending-videogame-consoles-form-applied-media-studies) *NANO* (2014) 
 * Buechley, Leah and Michael Eisenberg. [“The LilyPad Arduino: Toward Wearable Engineering for Everyone,”](http://highlowtech.org/publications/buechley_Pervasive_08.pdf) *Pervasive Computing* (2008: 12-15) 
 * Chachra, Debbie. ["Why I Am Not a Maker,"](http://www.theatlantic.com/technology/archive/2015/01/why-i-am-not-a-maker/384767/) *The Atlantic* (2015)
 * Chun, Wendy Hui Kyong. ["The Enduring Ephemeral, or the Future Is a Memory,"](http://www.jstor.org/stable/10.1086/595632?seq=1#page_scan_tab_contents) *Critical Inquiry* (2008)
-* Collins, Nicolas. *Handmade Electronic Music: The Art of Hardware Hacking* (2006)
+* Collins, Nicolas. [*Handmade Electronic Music: The Art of Hardware Hacking*](http://www.nicolascollins.com/handmade.htm) (2006)
 * Culkin, Jody. ["Arduino!"](http://www.jodyculkin.com/wp-content/uploads/2014/03/arduino-comic-2014.pdf) (2011) 
 * Elliott, Devon, Robert MacDougall and William J. Turkel. ["New Old Things: Fabrication, Physical Computing, and Experiment in Historical Practice,"](http://www.cjc-online.ca/index.php/journal/article/view/2506) *Canadian Journal of Communication* (2012) 
 * Fox, Sarah, Rachel Rose Ulgado, and Daniela K. Rosner. ["Hacking Culture, Not Devices: Access and Recognition in Feminist Hackerspaces"](https://pdfs.semanticscholar.org/9d93/2197a52f9a3f171aae291f714b0de35a6deb.pdf), with a [zine](http://depts.washington.edu/tatlab/blog/Feminist_hackerpace-zine.pdf), CSCW (2015)
-* Galey, Alan and Stan Ruecker. ["How a Prototype Argues,"](http://llc.oxfordjournals.org/content/25/4/405.abstract), *Digital Scholarship in the Humanities* (2010)
-* Igoe, Tom and Dan O'Sullivan. “Introduction," [*Physical Computing: Sensing and Controlling the Physical World with Computers*](http://www.amazon.com/Physical-Computing-Sensing-Controlling-Computers/dp/159200346X) (2004) 
+* Galey, Alan and Stan Ruecker. ["How a Prototype Argues,"](http://llc.oxfordjournals.org/content/25/4/405.abstract) *Digital Scholarship in the Humanities* (2010)
+* Igoe, Tom. [*Making Things Talk*](http://shop.oreilly.com/product/9780596510510.do) (2007)
+* Igoe, Tom and Dan O'Sullivan. [*Physical Computing: Sensing and Controlling the Physical World with Computers*](http://www.amazon.com/Physical-Computing-Sensing-Controlling-Computers/dp/159200346X) (2004) 
 * Kraus, Kari. ["Conjectural Criticism: Computing Past and Future Texts,"](http://digitalhumanities.org/dhq/vol/3/4/000069/000069.html) *Digital Humanities Quarterly* (2009)
 * McPherson, Tara. ["Media Studies and the Digital Humanities,"](https://muse.jhu.edu/article/257016) *Cinema Journal* (2009)
 * Mims, III, Forrest M. [*Getting Started in Electronics*](https://docs.google.com/file/d/0B5jcnBPSPWQyaTU1OW5NbVJQNW8/edit) (1983-1994)
@@ -155,18 +156,22 @@ For your reference, below we've compiled some "core" and "related" publications 
 * Sayers, Jentery. ["Prototyping the Past,"](http://visiblelanguagejournal.com/issue/172) *Visible Language* (2015) 
 
 *Related Reading*
+* Acland, Charles R., ed. [*Residual Media*](https://www.upress.umn.edu/book-division/books/residual-media) (2006)
 * Agre, Philip E. ["Toward a Critical Technical Practice: Lessons Learned in Trying to Reform AI,"](http://polaris.gseis.ucla.edu/pagre/critical.html) *Bridging the Great Divide* (Eds. Geof Bowker, Les Gasser, Leigh Star, and Bill Turner) (1997)
 * Belojevic, Nina and Shaun Macpherson. "Physical Computing, Embodied Practice," [*Routledge Companion to Media Studies and Digital Humanities*](https://github.com/jentery/routledgeCompanionMSDH/blob/master/index.md) (Ed. Jentery Sayers) (forthcoming)
 * Chan, Tiffany, Victoria Murawski, and Jentery Sayers. ["Remaking Optophones: An Exercise in Maintenance Studies,"](http://www.digitalrhetoriccollaborative.org/2016/03/14/remaking-optophones-an-exercise-in-maintenance-studies/) *Digital Rhetoric Collaborative* (2016)
 * Clouston, Nicole and Jentery Sayers, "Fabrication and Research-Creation in the Arts and Humanities," [*Doing Digital Humanities*](https://www.amazon.ca/Doing-Digital-Humanities-Practice-Training/dp/1138899445) (Eds. Constance Crompton, Richard J Lane, and Ray Siemens) (forthcoming)
+* Coleman, Beth. ["Using Sensor Inputs to Affect Virtual and Real Environments"](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=5165556&tag=1) (2009)
 * [Deep Lab](http://www.deeplab.net/#home)
 * Dunne, Anthony and Fiona Raby. [*Speculative Everything*](https://www.dropbox.com/s/7elhqz7j82c9teb/Dunne%20Raby%20-%20Speculative%20Everything%20-%20Ch%201.pdf?dl=0) (2013)
 * Emerson, Lori. [*Reading Writing Interfaces: From the Digital to the Bookbound*](https://www.upress.umn.edu/book-division/books/reading-writing-interfaces) (2014) 
 * Ernst, Wolfgang. [*Digital Memory and the Archive*](https://www.upress.umn.edu/book-division/books/digital-memory-and-the-archive) (2012)
 * Gabrys, Jennifer. "Sensing, Environmental Monitoring, and 'Media' as Practice in the Making," [*Routledge Companion to Media Studies and Digital Humanities*](https://github.com/jentery/routledgeCompanionMSDH/blob/master/index.md) (Ed. Jentery Sayers) (forthcoming)
+* Gershenfeld, Neil A. [*Fab: The Coming Revolution on Your Desktop: From Personal Computers to Personal Fabrication*](http://www.amazon.com/Fab-Revolution-Desktop-Computers-Fabrication/dp/0465027466) (2005)
 * Hancock, Charity, Clifford Hichar, Carlea Holl-Jensen, Kari Kraus, Cameron Mozafari, and Kathryn Skutlin. ["Bibliocircuitry and the Design of the Alien Everyday,”](https://scholarworks.iu.edu/journals/index.php/textual/article/view/5051/4649) *Textual Cultures* (2013)
 * Hertz, Garnet, ed. [*Conversations in Critical Making*](http://www.ctheory.net/articles.aspx?id=760) (2015)
 * Jackson, Steven J. ["Rethinking Repair,"](http://sjackson.infosci.cornell.edu/RethinkingRepairPROOFS(reduced)Aug2013.pdf) *Media Technologies* (Eds. Tarleton Gillespie, Pablo J. Boczkowski, and Kirsten A. Foot) (2014)
+* Jones, Steven E. [*The Emergence of the Digital Humanities*](https://www.amazon.ca/Emergence-Digital-Humanities-Steven-Jones/dp/0415635527) (2013)
 * Jungnickel, Kat. "Making Things to Make Sense of Things: DiY as Research Subject and Practice," [*Routledge Companion to Media Studies and Digital Humanities*](https://github.com/jentery/routledgeCompanionMSDH/blob/master/index.md) (Ed. Jentery Sayers) (forthcoming)
 * Kirschenbaum, Matthew G. ["Materiality and Matter and Stuff: What Electronic Texts Are Made Of,"](http://www.electronicbookreview.com/thread/electropoetics/sited) *Electronic Book Review* (2001)
 * Knight, Kim Brillante. "Wearable Interfaces, Networked Bodies, and Feminist Sleeper Agents," [*Routledge Companion to Media Studies and Digital Humanities*](https://github.com/jentery/routledgeCompanionMSDH/blob/master/index.md) (Ed. Jentery Sayers) (forthcoming)
@@ -180,11 +185,13 @@ For your reference, below we've compiled some "core" and "related" publications 
 * Miyazaki, Shintaro and Martin Howse, ["Detektors"](http://algorhythmics.ixdm.ch/?page_id=706) (2010-12)
 * Nakamura, Lisa. ["Indigenous Circuits: Navajo Women and the Racialization of Early Electronic Manufacture"](https://muse.jhu.edu/article/563663), *American Quarterly* (2014)
 * Parikka, Jussi.[*A Geology of Media*](https://www.upress.umn.edu/book-division/books/a-geology-of-media) (2015) 
+* Ray Murray, Padmini. ["Making Culture: Locating the Digital Humanities in India,"](http://visiblelanguagejournal.com/issue/172) *Visible Language* (2015) 
 * Ratto, Matt and Robert Ree. ["Materializing Information: 3D Printing and Social Change,”](http://firstmonday.org/ojs/index.php/fm/article/view/3968/3273) *First Monday* (2012)
 * Resch, Gabby, Dan Southwick, Matt Ratto, and Isaac Record. "Critically Making, Materializing, and Mattering the Humanities," [*Making Humanities Matter*](http://dhdebates.gc.cuny.edu/cfps/cfp_2015_mhm) (Ed. Jentery Sayers) (forthcoming)
 * Samuels, Lisa and Jerome McGann. ["Deformance and Interpretation,”](http://www2.iath.virginia.edu/jjm2f/old/deform.html) *New Literary History* (1999)
 * Sayers, Jentery, Devon Elliott, Kari Kraus, Bethany Nowviskie, and William J. Turkel, ["Between Bits and Atoms,"](http://onlinelibrary.wiley.com/doi/10.1002/9781118680605.ch1/summary) *A New Companion to Digital Humanities* (Eds. Susan Schreibman, Ray Siemens, and John Unsworth) (2015) 
 * Smithies, James. "Building a Virtual Research Environment on a Raspberry Pi," [*Making Humanities Matter*](http://dhdebates.gc.cuny.edu/cfps/cfp_2015_mhm) (Ed. Jentery Sayers) (forthcoming)
+* Sterling, Bruce. [*Shaping Things*](https://mitpress.mit.edu/books/shaping-things) (2005) 
 * Sterling, Bruce. "Design Fiction,"(http://interactions.acm.org/archive/view/may-june-2009/cover-storydesign-fiction1) *Interactions* (2009)
 * Sullivan, Elaine, Angel David Nieves, and Lisa M. Snyder. "Making the Model: Scholarship and Rhetoric in 3D Historical Reconstructions," [*Making Humanities Matter*](http://dhdebates.gc.cuny.edu/cfps/cfp_2015_mhm) (Ed. Jentery Sayers) (forthcoming)
 * Teboul, Ezra. "Open Hardware Design and Manufacturing Methods as Experimental Artistic Practices," [*Making Humanities Matter*](http://dhdebates.gc.cuny.edu/cfps/cfp_2015_mhm) (Ed. Jentery Sayers) (forthcoming)
