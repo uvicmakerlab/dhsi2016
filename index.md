@@ -10,35 +10,35 @@ DHSI Assistant Directors: Jason Boyd, Diane Jakacki, and Jentery Sayers
 ## Overview 
 
 * [Theme: "From This to That"](#theme-from-this-to-that)
-* [Definitions of Physical Computing and Digital Fabrication](#definitions)
+* [Defining Physical Computing and Fabrication](#definitions)
 * [Software for the Course](#software)
 * [Hardware for the Course](#hardware)
-* [Reading](#reading)
 * [Favourite Projects](#favourite-projects)
 * [Schedule for the Week](#schedule-for-the-week)  
-* [Some Suggestions for Prototyping](#some-suggestions-for-prototyping)
+* [Suggestions for Prototyping](#some-suggestions-for-prototyping)
+* [Bibliography](#bibliography)
 
 ## Theme: "From This to That"
 
-Throughout the week, we will survey physical computing and digital fabrication techniques by modelling, fabricating, programming, and repurposing objects as both bits and atoms. This process of converting objects from this material into that material will most obviously involve negotiations between screen media and tactile media but also between form and composition, metaphor and matter, code and affordance, surface and depth. Instead of reducing such work to a digital-analog, electronic-print, or new-old binaries, we will approach them as entanglements of materials and cultures, where composing and thinking with media is often quite messy and rife with contingencies. 
+Throughout the week, we will survey physical computing and digital fabrication techniques by modelling, fabricating, programming, and repurposing objects as both bits and atoms. This process of converting objects from this material into that material involves negotiations between screen media and tactile media. It also prompts attention to the relations between form and use, metaphor and matter, code and composition, surface and depth. Instead of reducing these relations to digital-analog, electronic-print, or new-old binaries, we will approach them as entanglements of history, technology, and culture, where composing or thinking with media is actually quite messy. In fact, highlighting the mess or mangle of things will nudge us to experiment with the contingencies of otherwise routine conversions (e.g., from page to screen, from bits to atoms, from atoms to bits, from idea to prototype back to idea). 
 
 By the end of the week, you should: 
 
 * Learn some basics of physical computing, 3D modelling, and fabrication. 
 * Identify common components of physical computing and fabrication projects. 
 * Prototype a simple project and communicate the aims of your prototype to others in the course. 
-* Know how to share components of your prototype online. 
+* Know how to share components of your prototype online (publicly or privately). 
 * Become familiar with how physical computing and fabrication operate at the intersection of the arts, humanities, and culture.  
 
 ## Definitions 
 
-Physical computing "means building interactive physical systems by the use of software and hardware that can sense and respond to the analog world. While this definition is broad enough to encompass things such as smart automotive traffic control systems or factory automation processes, it is not commonly used to describe them. In the broad sense, physical computing is a creative framework for understanding human beings' relationship to the digital world. In practical use, the term most often describes handmade art, design or DIY hobby projects that use sensors and microcontrollers to translate analog input to a software system, and/or control electro-mechanical devices such as motors, servos, lighting or other hardware." More care of [Wikipedia](http://en.wikipedia.org/wiki/Physical_computing). 
+Physical computing "means building interactive physical systems by the use of software and hardware that can sense and respond to the analog world. While this definition is broad enough to encompass things such as smart automotive traffic control systems or factory automation processes, it is not commonly used to describe them. In the broad sense, physical computing is a creative framework for understanding human beings' relationship to the digital world. In practical use, the term most often describes handmade art, design, or DIY hobby projects that use sensors and microcontrollers to translate analog input to a software system, and/or control electro-mechanical devices such as motors, servos, lighting, or other hardware." More care of [Wikipedia](http://en.wikipedia.org/wiki/Physical_computing). 
 
 Digital modelling and fabrication involve "a process that joins design with the construction / production through the use of 3-D modelling software and additive and subtractive manufacturing processes. These tools allow designers to produce material digitally, which is something greater than an image on screen, and actually tests the accuracy of the software and computer lines." More care of [Wikipedia](http://en.wikipedia.org/wiki/Digital_modeling_and_fabrication). 
 
 ## Software 
 
-Before or during the course, it would be great if you could install and/or experiment with the following software on your own machine: 
+Before or during the course, it would be great if you could install and experiment with the following software on your own machine: 
 
 * [Arduino Integrated Design Environment](http://www.arduino.cc/en/Main/Software)
 * [Agisoft PhotoScan](http://www.agisoft.com/)
@@ -54,18 +54,84 @@ In some cases (e.g., CorelDRAW and PhotoScan), you may want to consider trial li
 
 To the course, you should bring your own laptop, if possible. We will bring the following for you to use: 
 
-* Arduinos 
-* Raspberry Pis
+* [Arduinos](https://www.arduino.cc/)
+* [Raspberry Pis](https://www.raspberrypi.org/)
 * Fabricated components 
 * Sensors, actuators, wires, motors, batteries, and breadboards 
 * Glue, scissors, calipers, and various crafting and design supplies 
 * SLR cameras 
 
-We (the instructors) also have access to CNC equipment for digital fabrication on the UVic campus. The four of us will be using this equipment to cut, mill, engrave, and design components before and during DHSI. You do not need to provide your own components. 
+We (the instructors) also have access to computer numerical control (CNC) equipment for digital fabrication on the UVic campus. The four of us will be using this equipment to cut, mill, engrave, and design components before and during DHSI. You do not need to provide your own components. 
 
-## Reading
+## Favourite Projects
 
-For your reference, we've compiled some publications corresponding with the course activities, workshops, and discussions. We obviously don't expect you to read them in advance, but they may be informative during the week and after. Your call. Where possible, they are available online in PDF (link forthcoming) and via your DHSI CoursePak. They are also listed below, with URLs, divided into "core" and "related" reading. 
+Throughout the week, we (the instructors) will share our favourite physical computing and fabrication projects, including projects that inspired many of our experiments. As you'll likely notice, they represent an array of disciplines, including design, literary studies, sculpture, sound art, history, media studies, cultural studies, and engineering. In many ways, physical computing and fabrication are by necessity either interdisciplinary or transdisciplinary practices.   
+
+## Schedule for the Week  
+
+### Monday, June 13th (10:15-4:00) - From Bits to Atoms 
+* **10:15-10:30**, *Introductions*: We'll take a few minutes to say hello to each other.
+* **10:15-10:30**, *Physical Computing, Fabrication, and the Humanities* (Jentery): What is the relevance of physical computing and fabrication to humanities research? How might the humanities shape physical computing and fabrication practices? 
+* **10:30-10:45**, *Theme for the Week* (Jentery): We will briefly walk through the theme for the week.
+* **10:45-12:00**, *Introduction to Arduino* (Tiffany and Jentery): We will begin with an introduction to Arduino, which is an open-source microcontroller platform and integrated design environment (IDE). We will walk through the components of the platform, learn the basics of writing sketches in the IDE, briefly introduce the difference between digital and analog sensors and actuators, and begin building simple digital and analog circuits using switches, potentiometers, and light-emitting diodes (LED). 
+* **1:30-1:45**, *Tiffany's Favourite Projects*
+* **1:45-4:00**, *Circuit Design and Arduino Programming* (Tiffany): This afternoon, we will expand on Arduino basics by working with various analog and digital components. In groups, you will think about how to apply different combinations of sensors and actuators by programming interactions between components.
+
+### Tuesday, June 14th (9:00-4:00) - From Page to Screen  
+
+* Homework: Please bring an image to today's meeting. Thanks! 
+* **9:00-9:15**, *Kat’s Favourite Projects*
+* **9:15-12:00**, *3-D Modelling with 123D Design* (Kat): During this session, we'll walk through how to convert a 2-D image into a 3-D model using 123D Design. 
+* **1:30-2:00**, *From 3-D to 2-D with 123D Make* (Kat): This afternoon, we will demonstrate how you can turn your 3-D model into stackable, foldable, or interlocking 2-D parts using 123D Make.  
+* **2:00-2:30**, *Modeling in 2-D with CorelDRAW* (Kat): We will guide you through 2-D file preparation for laser cutting and also discuss sizing, file formats, and differences between vector and raster images, including how they are processed by a laser cutter.
+* **2:30-2:45**, *Jentery's Favourite Projects*
+* **2:45-4:00**, *Using Git + GitHub to Share Your Prototypes* (Jentery): During this session, you will learn the basics of Git, including how to push repositories of project files to GitHub, which allows you to share your work with others.
+
+### Wednesday, June 15th (9:00-4:00) - From Atoms to Bits 
+
+* Homework: Please bring a 3-D object to today's meeting. Thanks! 
+* **9:00-9:15**, *Danielle's Favourite Projects*
+* **9:15-12:00**, *Photogrammetry with Agisoft PhotoScan* (Danielle): During this session, we will algorithmically stitch 2-D images into 3-D models using PhotoScan. 
+* **1:30-3:00**, *3-D Scanning with an HDI 120* (Danielle): This afternoon we will use structured light scanning to convert a 3-D object into a cloud of data points and then into a 3-D model. 
+* **3:00-4:00**, *Review and Experimentation*
+
+## Thursday, June 16th (9:00-4:00) - From Idea to Prototype to Idea 
+
+* **9:00-4:00**, *Project Development*: You will prototype your own projects in small groups, with feedback from the instructors and others in the course.
+
+## Friday, June 17th (9:30-12:00) - From Prototype to Exhibit 
+
+* **9:30-11:00**, *Finalize Prototypes*: During this session, you will finalize working versions of your prototypes, with assistance from the instructors and others in the course.
+* **11:00-12:00**, *Informal Presentations*: You will informally share your prototypes with others in the course, and we'll collectively reflect on the week. We'll also determine what to show during the course exhibit scheduled for 12:15.
+
+## Suggestions for Prototyping 
+
+Below are some practical suggestions for prototyping with physical computing and fabrication techniques. These are clearly biased. Feel free to take them or leave them. 
+
+### Before You Start Prototyping 
+
+* Conduct an environmental scan. Is code already out there? Does a similar project already exist? Could you repurpose or edit existing models and builds? Or can you find schematics for the parts you are planning to use?
+* Create a bill of materials that accounts for what the materials mean or connote. For instance, is plastic the best choice? 
+* In terms of vendors, http://www.digikey.com/ and https://www.adafruit.com/ are popular options. 
+* Read reviews of any technologies before you purchase them. Ask others if they've used the technologies, too. Approach publications such as *Make* with some skepticism, or read against the grain of enthusiasm and hype. Often, what may seem easy is actually quite messy and dependent on variables such as the platforms and software (including versions) used. 
+
+### As You Prototype 
+
+* Consider working first with paper or modeling clay. This approach can save you time and materials. Also, the computing or programming elements of a project may be overrated. 
+* Circulate your prototype for feedback from friends. Have them interact with what you are making and document the interactions. Consider your designs in the context of use. 
+* Whenever possible, write about the prototyping process as you go. Reflect on it, too. Think about prototyping as inquiry (not a means to an end), where a prototype is a situation for interpretation or negotiation (not a product).
+* Reading existing online forums for similar projects to see if someone else has experienced the same issues as you. What was their approach? 
+
+### After You Prototype 
+
+* Privately or publicly, consider distributing your core files and documentation via a venue such as GitHub. This may be an easy way to save your work for later reference.   
+* Take photos or video of prototypes for future reference, too. 
+* Wherever possible, reuse parts for other projects, recycle them, or donate them to a group such as http://www.freegeek.org/. 
+* Consider licensing your prototype. 
+
+## Bibliography
+
+For your reference, below we've compiled some "core" and "related" publications (with URLs, where applicable) corresponding with the course activities, workshops, and discussions. We obviously don't expect you to read them in advance, but they may be informative during or after the course. Where possible, excerpts are available via your DHSI CoursePak. 
 
 *Core Reading*
 * Balsamo, Anne. [*Designing Culture*](http://www.designingculture.net/wordpress/wp-content/uploads/2010/06/Balsamo_essay_AcademicCommons.pdf) (2011)
@@ -73,6 +139,7 @@ For your reference, we've compiled some publications corresponding with the cour
 * Belojevic, Nina. [“Circuit Bending Videogame Consoles as a Form of Applied Media Studies,”](http://www.nanocrit.com/issues/5/circuit-bending-videogame-consoles-form-applied-media-studies) *NANO* (2014) 
 * Buechley, Leah and Michael Eisenberg. [“The LilyPad Arduino: Toward Wearable Engineering for Everyone,”](http://highlowtech.org/publications/buechley_Pervasive_08.pdf) *Pervasive Computing* (2008: 12-15) 
 * Chachra, Debbie. ["Why I Am Not a Maker,"](http://www.theatlantic.com/technology/archive/2015/01/why-i-am-not-a-maker/384767/) *The Atlantic* (2015)
+* Chun, Wendy Hui Kyong. ["The Enduring Ephemeral, or the Future Is a Memory,"](http://www.jstor.org/stable/10.1086/595632?seq=1#page_scan_tab_contents) *Critical Inquiry* (2008)
 * Collins, Nicolas. *Handmade Electronic Music: The Art of Hardware Hacking* (2006)
 * Culkin, Jody. ["Arduino!"](http://www.jodyculkin.com/wp-content/uploads/2014/03/arduino-comic-2014.pdf) (2011) 
 * Elliott, Devon, Robert MacDougall and William J. Turkel. ["New Old Things: Fabrication, Physical Computing, and Experiment in Historical Practice,"](http://www.cjc-online.ca/index.php/journal/article/view/2506) *Canadian Journal of Communication* (2012) 
@@ -82,6 +149,7 @@ For your reference, we've compiled some publications corresponding with the cour
 * Kraus, Kari. ["Conjectural Criticism: Computing Past and Future Texts,"](http://digitalhumanities.org/dhq/vol/3/4/000069/000069.html) *Digital Humanities Quarterly* (2009)
 * McPherson, Tara. ["Media Studies and the Digital Humanities,"](https://muse.jhu.edu/article/257016) *Cinema Journal* (2009)
 * Mims, III, Forrest M. [*Getting Started in Electronics*](https://docs.google.com/file/d/0B5jcnBPSPWQyaTU1OW5NbVJQNW8/edit) (1983-1994)
+* Parks, Lisa and Nicole Starosielski. [*Signal Traffic: Critical Studies of Media Infrastructures*](http://www.press.uillinois.edu/books/catalog/26bxm4qd9780252039362.html) (2015)  
 * Perner-Wilson, Hannah. [*A Kit-of-No-Parts*](http://dspace.mit.edu/handle/1721.1/67784), Massachusetts Institute of Technology (2011) 
 * Rosner, Daniela K. and Morgan G. Ames. ["Designing for Repair? Infrastructures and Materialities of Breakdown,"](http://people.ischool.berkeley.edu/~daniela/files/cscw14-rosner-repair.pdf) CSCW (2014)
 * Sayers, Jentery. ["Prototyping the Past,"](http://visiblelanguagejournal.com/issue/172) *Visible Language* (2015) 
@@ -93,11 +161,14 @@ For your reference, we've compiled some publications corresponding with the cour
 * Clouston, Nicole and Jentery Sayers, "Fabrication and Research-Creation in the Arts and Humanities," [*Doing Digital Humanities*](https://www.amazon.ca/Doing-Digital-Humanities-Practice-Training/dp/1138899445) (Eds. Constance Crompton, Richard J Lane, and Ray Siemens) (forthcoming)
 * [Deep Lab](http://www.deeplab.net/#home)
 * Dunne, Anthony and Fiona Raby. [*Speculative Everything*](https://www.dropbox.com/s/7elhqz7j82c9teb/Dunne%20Raby%20-%20Speculative%20Everything%20-%20Ch%201.pdf?dl=0) (2013)
+* Emerson, Lori. [*Reading Writing Interfaces: From the Digital to the Bookbound*](https://www.upress.umn.edu/book-division/books/reading-writing-interfaces) (2014) 
+* Ernst, Wolfgang. [*Digital Memory and the Archive*](https://www.upress.umn.edu/book-division/books/digital-memory-and-the-archive) (2012)
 * Gabrys, Jennifer. "Sensing, Environmental Monitoring, and 'Media' as Practice in the Making," [*Routledge Companion to Media Studies and Digital Humanities*](https://github.com/jentery/routledgeCompanionMSDH/blob/master/index.md) (Ed. Jentery Sayers) (forthcoming)
 * Hancock, Charity, Clifford Hichar, Carlea Holl-Jensen, Kari Kraus, Cameron Mozafari, and Kathryn Skutlin. ["Bibliocircuitry and the Design of the Alien Everyday,”](https://scholarworks.iu.edu/journals/index.php/textual/article/view/5051/4649) *Textual Cultures* (2013)
 * Hertz, Garnet, ed. [*Conversations in Critical Making*](http://www.ctheory.net/articles.aspx?id=760) (2015)
 * Jackson, Steven J. ["Rethinking Repair,"](http://sjackson.infosci.cornell.edu/RethinkingRepairPROOFS(reduced)Aug2013.pdf) *Media Technologies* (Eds. Tarleton Gillespie, Pablo J. Boczkowski, and Kirsten A. Foot) (2014)
 * Jungnickel, Kat. "Making Things to Make Sense of Things: DiY as Research Subject and Practice," [*Routledge Companion to Media Studies and Digital Humanities*](https://github.com/jentery/routledgeCompanionMSDH/blob/master/index.md) (Ed. Jentery Sayers) (forthcoming)
+* Kirschenbaum, Matthew G. ["Materiality and Matter and Stuff: What Electronic Texts Are Made Of,"](http://www.electronicbookreview.com/thread/electropoetics/sited) *Electronic Book Review* (2001)
 * Knight, Kim Brillante. "Wearable Interfaces, Networked Bodies, and Feminist Sleeper Agents," [*Routledge Companion to Media Studies and Digital Humanities*](https://github.com/jentery/routledgeCompanionMSDH/blob/master/index.md) (Ed. Jentery Sayers) (forthcoming)
 * Lipson, Hod, Francis C. Moon, Jimmy Hai, and Carlo Paventi. ["3-D Printing the History of Mechanisms,"](http://mechanicaldesign.asmedigitalcollection.asme.org/article.aspx?articleID=1448677) *Journal of Mechanical Design* (2004)
 * Lukens, Jonathan and Carl DiSalvo. ["Speculative Design and Technological Fluency,"](http://www.mitpressjournals.org/doi/abs/10.1162/IJLM_a_00080?journalCode=ijlm#.VyF666ODFBc) *International Journal of Learning and Media* (2012)
@@ -105,11 +176,15 @@ For your reference, we've compiled some publications corresponding with the cour
 * Maker Lab in the Humanities, ["Kits for Cultural History,"](http://hyperrhiz.io/hyperrhiz13/workshops-kits/early-wearables.html) *Hyperrhiz* (2015) 
 * Maly, Tim. ["Pretty Ramp Machine"](https://medium.com/weird-future/pretty-ramp-machine-9caa2588d7ac#.mhwuw69nw), on Sara Hendren's work, *Medium* (2013)
 * Margolis, Michael. "Getting Started," [*Arduino Cookbook*](http://www.amazon.com/Arduino-Cookbook-2nd-Michael-Margolis/dp/1449313876) (2011) 
+* [Minimal Computing: A Working Group of GO::DH](http://go-dh.github.io/mincomp/)
 * Miyazaki, Shintaro and Martin Howse, ["Detektors"](http://algorhythmics.ixdm.ch/?page_id=706) (2010-12)
+* Nakamura, Lisa. ["Indigenous Circuits: Navajo Women and the Racialization of Early Electronic Manufacture"](https://muse.jhu.edu/article/563663), *American Quarterly* (2014)
+* Parikka, Jussi.[*A Geology of Media*](https://www.upress.umn.edu/book-division/books/a-geology-of-media) (2015) 
 * Ratto, Matt and Robert Ree. ["Materializing Information: 3D Printing and Social Change,”](http://firstmonday.org/ojs/index.php/fm/article/view/3968/3273) *First Monday* (2012)
 * Resch, Gabby, Dan Southwick, Matt Ratto, and Isaac Record. "Critically Making, Materializing, and Mattering the Humanities," [*Making Humanities Matter*](http://dhdebates.gc.cuny.edu/cfps/cfp_2015_mhm) (Ed. Jentery Sayers) (forthcoming)
 * Samuels, Lisa and Jerome McGann. ["Deformance and Interpretation,”](http://www2.iath.virginia.edu/jjm2f/old/deform.html) *New Literary History* (1999)
 * Sayers, Jentery, Devon Elliott, Kari Kraus, Bethany Nowviskie, and William J. Turkel, ["Between Bits and Atoms,"](http://onlinelibrary.wiley.com/doi/10.1002/9781118680605.ch1/summary) *A New Companion to Digital Humanities* (Eds. Susan Schreibman, Ray Siemens, and John Unsworth) (2015) 
+* Smithies, James. "Building a Virtual Research Environment on a Raspberry Pi," [*Making Humanities Matter*](http://dhdebates.gc.cuny.edu/cfps/cfp_2015_mhm) (Ed. Jentery Sayers) (forthcoming)
 * Sterling, Bruce. "Design Fiction,"(http://interactions.acm.org/archive/view/may-june-2009/cover-storydesign-fiction1) *Interactions* (2009)
 * Sullivan, Elaine, Angel David Nieves, and Lisa M. Snyder. "Making the Model: Scholarship and Rhetoric in 3D Historical Reconstructions," [*Making Humanities Matter*](http://dhdebates.gc.cuny.edu/cfps/cfp_2015_mhm) (Ed. Jentery Sayers) (forthcoming)
 * Teboul, Ezra. "Open Hardware Design and Manufacturing Methods as Experimental Artistic Practices," [*Making Humanities Matter*](http://dhdebates.gc.cuny.edu/cfps/cfp_2015_mhm) (Ed. Jentery Sayers) (forthcoming)
@@ -119,69 +194,3 @@ For your reference, we've compiled some publications corresponding with the cour
 * Weiser, Mark and John Seely Brown. ["The Coming Age of Calm Technology,"](http://www.ubiq.com/hypertext/weiser/acmfuture2endnote.htm) Xerox PARC (1996)
 * Wernimont, Jacqueline and Elizabeth Losh, "Wear and Care: Feminisms at a Long Maker Table," [*Routledge Companion to Media Studies and Digital Humanities*](https://github.com/jentery/routledgeCompanionMSDH/blob/master/index.md) (Ed. Jentery Sayers) (forthcoming)
 * Zoran, Amit and Leah Buechley. ["Hybrid Reassemblage: An Exploration of Craft, Digital Fabrication, and Artifact Uniqueness"](http://www.mitpressjournals.org/doi/pdf/10.1162/LEON_a_00477) *Leonardo* (2013)
-
-## Favourite Projects
-
-Throughout the week, we'll share our favourite physical computing and fabrication projects, including projects that inspired many of our experiments. As you'll likely notice, they represent an array of disciplines, including design, literary studies, sculpture, sound art, history, media studies, cultural studies, and engineering. 
-
-## Schedule for the Week  
-
-### Monday, June 13th (10:15-4:00) - From Bits to Atoms 
-* **10:15-10:30**, *Introductions*: We'll take a few minutes to say hello to each other.
-* **10:15-10:30**, *Physical Computing, Fabrication, and the Humanities* (Jentery): What is the relevance of physical computing and fabrication to humanities research? How might the humanities inform physical computing and fabrication practices? 
-* **10:30-10:45**, *Theme for the Week* (Jentery): We will briefly walk through the theme for the week
-* **10:45-12:00**, *Introduction to Arduino* (Tiffany and Jentery): We will begin with an introduction to Arduino, the open-source microcontroller platform and integrated design environment (IDE). We will walk through the components of the platform, learn the basics of writing sketches in the IDE, briefly introduce the difference between digital and analog sensors and actuators, and begin building simple digital and analog circuits using switches, potentiometers, and LEDs. 
-* **1:30-1:45**, *Tiffany's Favourite Projects*
-* **1:45-4:00**, *Circuit Design and Arduino Programming* (Tiffany): In the afternoon, we will expand on the basics learned during the first session by working with various analog and digital Arduino components. In groups, you will begin to think about how to apply different combinations of sensors and actuators by programming interactions between components.
-
-### Tuesday, June 14th  (9:00-4:00) - From Page to Screen to Component Parts 
-
-* Homework: please bring an image to today's meeting
-* **9:00-9:15**, *Kat’s Favourite Projects*
-* **9:15-12:00**, *3-D Modelling with 123D Design* (Kat): An introduction to modelling in 3D 
-* **1:30-2:00**, *Turning a 3-D Model into 2-D Parts with 123D Make* (Kat): We will demonstrate how you can turn your 3-D model into stackable, foldable, or interlocking 2-D parts. 
-* **2:00-2:30**, *Modeling Directly in 2-D with CorelDRAW* (Kat): We will guide you through 2-D file preparation for laser cutting and also discuss sizing, file formats, and the difference between vector and raster images, including how they are processed by a laser cutter.
-* **2:30- 2:45**, *Jentery's Favourite Projects*
-* **2:45-4:00**, *Using Git + GitHub to Share Your Prototypes* (Jentery): During this session, you will learn the basics of Git, including how to push repositories of project files to GitHub, which allows you to share you work with others.
-
-### Wednesday, June 15th (9:00-4:00) - From Atoms to Bits 
-
-* Homework: bring a 3-D object to today's meeting 
-* **9:00-9:15**, *Danielle's Favourite Projects*
-* **9:15-12:00**, *Introduction to Photogrammetry with Agisoft PhotoScan* (Danielle): During this session, we will algorithmically stitch a series of 2-D images into 3-D models using PhotoScan. 
-* **1:30-3:15**, *3-D Scanning with an HDI 120* (Danielle): This afternoon we will use structured light scanning to convert a 3-D object into a cloud of data points and then into a 3-D model. 
-* **3:15- 4:00**, *Review and Experimentation*
-
-## Thursday, June 16th (9:00-4:00) - From Idea to Project 
-
-* **9:00-4:00**, *Project Development*: You will prototype your own projects in small groups, with feedback from the instructors and others in the course.
-
-## Friday, June 17th (9:30-12:00)
-
-* **9:30-11:00**, *Finalize Prototypes*: During this session, you will finalize working versions of your prototypes, with assistance from the instructors and others in the course.
-* **11:00-12:00**, *Informal Presentations*: You will informally share your prototypes with others in the course, and we'll collectively reflect on the week. We'll also determine what to show during the course exhibit scheduled for 12:15.
-
-## Some Suggestions for Prototyping 
-
-Below are some practical suggestions for prototyping projects involving physical computing and fabrication. These are clearly biased. Feel free to take them or leave them. 
-
-### Before You Start Prototyping 
-
-* Conduct an environmental scan. Is code already out there? Does a similar project already exist? Could you repurpose or edit existing models and builds? Or can you find schematics for the parts you are planning to use?
-* Create a bill of materials that accounts for what the materials mean or connote. For instance, is plastic the best choice? 
-* In terms of vendors, http://www.digikey.com/ and https://www.adafruit.com/ are popular options. 
-* Read reviews of any technologies before you purchase them. Ask others if they've used the technologies, too. Approach publications such as *Make* with some skepticism, or read against the grain of enthusiasm and hype. 
-
-### As You Prototype 
-
-* Consider working first with paper or modeling clay. This approach can save you both time and materials. 
-* Circulate your prototype for feedback from friends. Have them interact with what you are making and document the interactions. Consider designs in the context of use. 
-* Whenever possible, write about the prototyping process as you go. Reflect on it, too. Think about prototyping as inquiry (not a means to an end), where a prototype is a situation for interpretation or negotiation (not a product).
-* Don't hesitate to post questions or challenges you have with your code or circuit design on relevant forums online. Or read existing threads for similar projects to see if someone else has experienced the same issues as you. What was their solution? 
-
-### After You Prototype 
-
-* Privately or publicly, consider distributing your core files and documentation via a venue such as GitHub. 
-* Take photos or video of prototypes for future reference. 
-* Wherever possible, reuse parts for other projects, recycle them, or donate them to a group such as http://www.freegeek.org/. 
-* Consider licensing your prototype. 
