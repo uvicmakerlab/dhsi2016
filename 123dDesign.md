@@ -69,7 +69,7 @@ Once the objects have been selected a large grid will appear with dots along the
 
 The grouping tool allows you to select objects you want to link so that they move together. (The other options under the grouping dropdown menu allow you to ungroup objects).
 
-![image alt text](imagesgroup.png)
+![image alt text](images/group.png)
 
 Once objects are grouped they will automatically move, scale, etc together. If you group too many objects together at the same time you may experience some lag with the program, so if you want the objects to stay together permanently, you may want to select the merge tool instead.
 
@@ -115,7 +115,7 @@ Like merge and subtract, you select two objects. When you hit enter, it will onl
 
 ![image alt text](images/intersect2.png) 
 
-![image alt text](image/intersect3.png)
+![image alt text](images/intersect3.png)
 
 **Editing Faces, Edges and Vertices**
 
@@ -232,7 +232,7 @@ The spline option allows you to drop points just like polyline, but will automat
 
 ![image alt text](images/spline.png)
 
-![image alt text](image/spline2.png)
+![image alt text](images/spline2.png)
 
 ![image alt text](images/2pointarc.png)
 
