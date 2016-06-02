@@ -1,14 +1,14 @@
 #Introduction to 123D Make
 
-123D Make allows you to turn digital 3D models into 2D parts that you can print, then reassemble into a physical 3D model. I’ve modeled a simple version of Lil Bub the cat in 123D design that I will be printing using 123D Make. 
+123D Make allows you to turn digital 3D models into 2D parts that you can print, then reassemble into a physical 3D model. I’ve modeled a simple version of Lil Bub the cat in 123D Design that I will be printing using 123D Make. 
 
 ![image alt text](images/image_0.png)
 
 When you open 123D Make, there are several menus on the left side of the program.
 
-##Manufacturing Settings - Allows you to indicate the size of the material you will be printing on. 
+**Manufacturing Settings** - Allows you to indicate the size of the material you will be printing on. 
 
-##Object size -  Allows you to adjust the size of the object itself.  
+**Object size** -  Allows you to adjust the size of the object itself.  
 
 ![image alt text](images/image_1.png)
 
