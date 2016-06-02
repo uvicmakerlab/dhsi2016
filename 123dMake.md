@@ -1,6 +1,7 @@
 **Introduction to 123D Make**
 
-123D Make allows you to turn digital 3D models into 2D parts that you can print, then reassemble into a physical 3D model. I’ve modeled a simple version of Lil Bub the cat in 123D design that I will be printing using 123D Make. ![image alt text](image_0.png)
+123D Make allows you to turn digital 3D models into 2D parts that you can print, then reassemble into a physical 3D model. I’ve modeled a simple version of Lil Bub the cat in 123D design that I will be printing using 123D Make. 
+![image alt text](images/image_0.png)
 
 When you open 123D Make, there are several menus on the left side of the program.
 
@@ -44,7 +45,7 @@ Curve works essentially the same way as interlocking slices. The main difference
 **Racial Slices**
 
 Racial slices are also interlocking, but they fan out from a central point in the model. 
-![image alt text](image_5.png)
+![image alt text](images/image_5.png)
 
 **Folded Panels**
 
