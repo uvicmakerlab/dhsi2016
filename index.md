@@ -91,7 +91,9 @@ Throughout the week, we (the instructors) will share our favourite physical comp
 
 * **Homework**: Please bring a 3-D object to today's meeting. Thanks! 
 * **9:00-9:15**, *Danielle's Favourite Projects*
-* - Matt Richardson’s Descriptive Camera:
+* 
+- Matt Richardson’s Descriptive Camera:
+
  http://mattrichardson.com/Descriptive-Camera/
 
 -Red Paper Heart’s Remember Project:
