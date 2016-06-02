@@ -79,9 +79,9 @@ Throughout the week, we (the instructors) will share our favourite physical comp
 
 ### Tuesday, June 14th (9:00-4:00) - From Page to Screen  
 
-* Homework: Please bring an image to today's meeting. Thanks! 
+* **Homework**: Please bring an image to today's meeting. Thanks! 
 * **9:00-9:15**, *Kat’s Favourite Projects*
-* **9:15-12:00**, *3-D Modelling with 123D Design* (Kat): During this session, we'll walk through how to convert a 2-D image into a 3-D model using 123D Design. 
+* **9:15-12:00**, *3-D Modelling with 123D Design* (Kat): During this session, we'll walk through how to convert a 2-D image into a 3-D model using 123D Design. ([notes for this module](123dDesign.md))
 * **1:30-2:00**, *From 3-D to 2-D with 123D Make* (Kat): This afternoon, we will demonstrate how you can turn your 3-D model into stackable, foldable, or interlocking 2-D parts using 123D Make.  
 * **2:00-2:30**, *Modeling in 2-D with CorelDRAW* (Kat): We will guide you through 2-D file preparation for laser cutting and also discuss sizing, file formats, and differences between vector and raster images, including how they are processed by a laser cutter.
 * **2:30-2:45**, *Jentery's Favourite Projects*
@@ -89,7 +89,7 @@ Throughout the week, we (the instructors) will share our favourite physical comp
 
 ### Wednesday, June 15th (9:00-4:00) - From Atoms to Bits 
 
-* Homework: Please bring a 3-D object to today's meeting. Thanks! 
+* **Homework**: Please bring a 3-D object to today's meeting. Thanks! 
 * **9:00-9:15**, *Danielle's Favourite Projects*
 * **9:15-12:00**, *Photogrammetry with Agisoft PhotoScan* (Danielle): During this session, we will algorithmically stitch 2-D images into 3-D models using PhotoScan. 
 * **1:30-3:00**, *3-D Scanning with an HDI 120* (Danielle): This afternoon we will use structured light scanning to convert a 3-D object into a cloud of data points and then into a 3-D model. 
