@@ -1,4 +1,4 @@
-**Introduction to 123D Make**
+#Introduction to 123D Make
 
 123D Make allows you to turn digital 3D models into 2D parts that you can print, then reassemble into a physical 3D model. I’ve modeled a simple version of Lil Bub the cat in 123D design that I will be printing using 123D Make. 
 
@@ -6,13 +6,15 @@
 
 When you open 123D Make, there are several menus on the left side of the program.
 
-**Manufacturing Settings** - Allows you to indicate the size of the material you will be printing on. **Object size** -  Allows you to adjust the size of the object itself.  
+##Manufacturing Settings - Allows you to indicate the size of the material you will be printing on. 
+
+##Object size -  Allows you to adjust the size of the object itself.  
 
 ![image alt text](images/image_1.png)
 
 Once you’ve indicated the size of your object and your printing material, you can choose what construction technique you’d like to use from the following options. 
 
-**Stacked Slices**
+##Stacked Slices
 
 Once you select this option, the program will automatically slice your model into layers based on how thick your material is (as you’ve indicated in the manufacturing settings). Several additional menu options will also appear. 
 
@@ -28,7 +30,7 @@ Once you select this option, the program will automatically slice your model int
 
 ![image alt text](images/image_2.png)
 
-**Interlocking Slices**
+##Interlocking Slices
 
 The interlocking slices menu provides many of the same options as the stacked slices menu, It also includes a slice distribution menu. 
 
@@ -38,19 +40,19 @@ Slices that are highlighted in red indicate where there will be errors in the as
 
 ![image alt text](images/image_3.png)
 
-**Curve**
+##Curve
 
 Curve works essentially the same way as interlocking slices. The main difference is that the slices along the curves axis aren’t necessarily parallel to one another. This can allow for slightly more detail in your interlocking model.
 
 ![image alt text](images/image_4.png)
 
-**Racial Slices**
+##Racial Slices
 
 Racial slices are also interlocking, but they fan out from a central point in the model. 
 
 ![image alt text](images/image_5.png)
 
-**Folded Panels**
+##Folded Panels
 
 The folded panels option allows you to print your model onto paper, and then fold the paper pieces into roughly the same shape as your model. The folded panels menu also allows you to adjust the panels and seams for easier construction.
 
@@ -58,11 +60,11 @@ The folded panels option allows you to print your model onto paper, and then fol
 
 **Add/or remove seams**
 
-**Joint Type **- adjust the kind of joint used or add perforations.
+**Joint Type**- adjust the kind of joint used or add perforations.
 
 ![image alt text](images/image_6.png)
 
-**3D Slices**
+##3D Slices
 
 The 3D slice option allows you to see how your model might be 3D printed, but it doesn’t provide plans to print or export your 3D slices.
 
