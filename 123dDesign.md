@@ -269,6 +269,8 @@ Then I offset a larger version of the elipsis ourtside my original sketch.
 
 ![image alt text](images/offsetsketch3.png)
 
+##Turning a Sketch into a Solid
+
 **Extrude your sketch** 
 
 Drag the arrow or adjust the size in the pop-up menu.
@@ -323,6 +325,8 @@ When you extrude a sketch into or past an existing solid it will automatically t
 
 ![image alt text](images/combine.png)
 
+##Prep for Printing
+
 **Measuring your object**
 
 If you select the measure button from your main menu this pop-up menu will appear. It allows you to measure the distance, angle, area, or volume of your model.
@@ -345,6 +349,6 @@ A drop down menu will allow you to select the point in an object you want to mea
 
 **Change the colour or visible texture of your model**
 
-Select the material button from your main menu and a pop-up menu will appear, allowing you to adjust colour and visible texture.
+Select the material button from your main menu and a pop-up menu will appear, allowing you to adjust colour and visible texture. This won't actually affect the color or material of your printer, but it will allow you to explore how your model might look made from different materials. 
 
 ![image alt text](images/material.png)
