@@ -80,7 +80,9 @@ Throughout the week, we (the instructors) will share our favourite physical comp
 ### Tuesday, June 14th (9:00-4:00) - From Page to Screen  
 
 * **Homework**: Please bring an image to today's meeting. Thanks! 
-* **9:00-9:15**, *Kat’s Favourite Projects*
+* **9:00-9:15**, *Kat’s Favourite Projects* 1. [Simone Giertz’s intentionally shitty robots](https://www.youtube.com/channel/UC3KEoMzNz8eYnwBC34RaKCQ), 2.
+[Amanda Ghassaei’s laser cut records](http://www.amandaghassaei.com/projects/laser_cut_record/), 3. [Makey Makey interactive zine](http://makeymakey.com/guides/zine.php), 4. [Interactive portraits using lilypad mp3](http://www.instructables.com/id/Interactive-Portraits-Using-Lilypad-Mp3/?ALLSTEPS), 5. [Laser cut DNA helix](http://fab.cba.mit.edu/classes/863.13/people/wildebeest/projects/week1/index.html), 6. [#NewPalmyra laser scanned preservation project](http://www.architectmagazine.com/technology/an-open-source-project-to-rebuild-palmyra_o), 7. [Leonie Tenthof van Noorden’s 3D Tailor](http://www.dezeen.com/2015/02/28/movie-3d-scanning-fashion-unique-fitted-clothes-leonie-tenthof-van-noorden/), 8. [Lilypad bike turning signal jacket](http://www.instructables.com/id/turn-signal-biking-jacket/?ALLSTEPS), 9. [Lasercut font for printing press](http://www.cutlasercut.com/showcase/bodoni-laser-cut-typeface), 10. [Macchina Poetica](https://blog.arduino.cc/2016/02/17/macchina-poetica/) 
+
 * **9:15-12:00**, *3-D Modelling with 123D Design* (Kat): During this session, we'll walk through how to convert a 2-D image into a 3-D model using 123D Design. ([notes for this module](123dDesign.md))
 * **1:30-2:00**, *From 3-D to 2-D with 123D Make* (Kat): This afternoon, we will demonstrate how you can turn your 3-D model into stackable, foldable, or interlocking 2-D parts using 123D Make.  
 * **2:00-2:30**, *Modeling in 2-D with CorelDRAW* (Kat): We will guide you through 2-D file preparation for laser cutting and also discuss sizing, file formats, and differences between vector and raster images, including how they are processed by a laser cutter.
