@@ -224,7 +224,7 @@ Or you can build your own sketch using a variety of sketch options. For each of 
 
 The Polyline option allows you to make any shape by clicking on the grid where you want to put down a corner. You can draw straight lines by clicking from point to point, or you can drag and click to add an arc to your line. You can adjust the line length or arc degree by adjusting the cm or degree in the pop-up menus. Hit the esc button or click the green check mark to exit sketch mode. It is only considered a finished sketch if it is enclosed and the enclosed area is coloured light blue. 
 
- ![image alt text](image/polyline.png)
+ ![image alt text](images/polyline.png)
  
  ![image alt text](images/polyline2.png)
 
