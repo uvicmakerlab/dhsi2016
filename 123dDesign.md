@@ -4,7 +4,6 @@
 
 ! [image alt text](images/lilbubmodel2.png)
 
-![image alt text](images/moveView.png)
 
 **Moving Your Perspective**
 
