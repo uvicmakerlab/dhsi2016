@@ -10,11 +10,11 @@ Left click - Pan your view.
 
 Or select the orbit, panning, or zoom option from the right hand menu. You can also adjust the direction of your view or hit the home button to return to your original view of the grid.
 
-![image alt text](moveView.png)
+![image alt text](images/moveView.png)
 
 **Selecting a simple object**
 
-![image alt text](image_0.png)
+![image alt text](images/image_0.png)
 
 **Moving an Object**
 
