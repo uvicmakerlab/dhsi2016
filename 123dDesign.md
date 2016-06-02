@@ -2,7 +2,7 @@
 
 123D Design is a free 3D modeling program. 3D modeling is a key step in the prototyping work cycle. It allows you to envision your project as though it were three dimensional and get a basic idea of how a physical model would appear. We asked you to bring a photo with you today so that you can turn a 2D representation into a 3D model. I've included a simple example below, along with a series of instructions describing the programs many available tools. 
 
-![image alt text](images/Lil_Bub.jpg =250x) ![image alt text](images/lilbubmodel.png)
+! [image alt text](images/lilbubmodel2.png)
 
 ![image alt text](images/moveView.png)
 
