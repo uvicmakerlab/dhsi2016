@@ -77,14 +77,14 @@ Throughout the week, we (the instructors) will share our favourite physical comp
 * **1:30-1:45**, *Tiffany's Favourite Projects*
 * **1:45-4:00**, *Circuit Design and Arduino Programming* (Tiffany): This afternoon, we will expand on Arduino basics by working with various analog and digital components. In groups, you will think about how to apply different combinations of sensors and actuators by programming interactions between components.
 
-### Tuesday, June 14th (9:00-4:00) - From Page to Screen  
+### Tuesday, June 14th (9:00-4:00) - From Page to Screen (to Prototype?)
 
 * **Homework**: Please bring an image to today's meeting. Thanks! 
 * **9:00-9:15**, *Kat’s Favourite Projects* 1. [Simone Giertz’s intentionally shitty robots](https://www.youtube.com/channel/UC3KEoMzNz8eYnwBC34RaKCQ), 2.
 [Amanda Ghassaei’s laser cut records](http://www.amandaghassaei.com/projects/laser_cut_record/), 3. [Makey Makey interactive zine](http://makeymakey.com/guides/zine.php), 4. [Interactive portraits using lilypad mp3](http://www.instructables.com/id/Interactive-Portraits-Using-Lilypad-Mp3/?ALLSTEPS), 5. [Laser cut DNA helix](http://fab.cba.mit.edu/classes/863.13/people/wildebeest/projects/week1/index.html), 6. [#NewPalmyra laser scanned preservation project](http://www.architectmagazine.com/technology/an-open-source-project-to-rebuild-palmyra_o), 7. [Leonie Tenthof van Noorden’s 3D Tailor](http://www.dezeen.com/2015/02/28/movie-3d-scanning-fashion-unique-fitted-clothes-leonie-tenthof-van-noorden/), 8. [Lilypad bike turning signal jacket](http://www.instructables.com/id/turn-signal-biking-jacket/?ALLSTEPS), 9. [Lasercut font for printing press](http://www.cutlasercut.com/showcase/bodoni-laser-cut-typeface), 10. [Macchina Poetica](https://blog.arduino.cc/2016/02/17/macchina-poetica/) 
 * **9:15-12:00**, *3-D Modelling with 123D Design* (Kat): During this session, we'll walk through how to convert a 2-D image into a 3-D model using 123D Design. ([notes for this module](123dDesign.md))
 * **1:30-2:00**, *From 3-D to 2-D with 123D Make* (Kat): This afternoon, we will demonstrate how you can turn your 3-D model into stackable, foldable, or interlocking 2-D parts using 123D Make.  ([notes for this module](123dMake.md))
-* **2:00-2:30**, *Modeling in 2-D with CorelDRAW* (Kat): We will guide you through 2-D file preparation for laser cutting and also discuss sizing, file formats, and differences between vector and raster images, including how they are processed by a laser cutter. ([notes for this module](CorelDraw.md))
+* **2:00-2:30**, *Introduction to Laser Cutting* (Kat): We will guide you through 2-D file preparation for laser cutting and also discuss sizing, file formats, and differences between vector and raster images, including how they are processed by a laser cutter. ([notes for this module](laserCutting.md))
 * **2:30-2:45**, *Jentery's Favourite Projects* 
 * **2:45-4:00**, *Using Git + GitHub to Share Your Prototypes* (Jentery): During this session, you will learn the basics of Git, including how to push repositories of project files to GitHub, which allows you to share your work with others.
 
