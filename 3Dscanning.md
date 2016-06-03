@@ -79,14 +79,14 @@ The scanner projects light patterns (in this case, a checkerboard pattern) onto 
 
 ##Should you use photogrammetry or structured light scanning?
 
-Photogrammetry is especially useful when:
+**Photogrammetry is especially useful when**:
 * you are modelling an object that cannot be placed on a rotating table or easily moved from its location
 
 * capturing humans or anything that moves. While it is always an extreme challenge to capture moving objects, the scanner takes about a full second to fully scan a section of an object, whereas a camera is able to capture an image in 1/1000th of a second. So, if you have multiple cameras rotating around an object it is possible to create an accurate model of a human or moving object using photogrammetry.
 
 * you want more control over what information is being input into your model. Although you can weed out scans that you do not want it with Flexscan 3D, you have minimal control over how the scanner captures your object. Before inputting your photos into Photoscan, you can drastically alter the images using the settings on your camera or editing software.
 
-Structured light scanning is especially useful when:
+**Structured light scanning is especially useful when**:
 * you are modelling objects in which the accuracy of the surface texture is integral to the success of the model. The scanner replicates surface texture and patterns with much greater accuracy.
 
 * you are modelling small objects. It is very difficult for agisoft to build a detailed model of smaller objects and to separate small objects from background information in your photographs.
