@@ -41,7 +41,7 @@ To calibrate the rotary table:
 * Select all the scans you would like to use in your final mesh and click "combine." You can also click “uncombine” to see all your parsed out meshes.
 * Once you have a satisfactory model, click "finalize." 
 
-**Fill Holes**: this step allows you to fill any holes that the scanner was unable to capture (usually due to occlusions on the object).
+**Fill holes**: this step allows you to fill any holes that the scanner was unable to capture (usually due to occlusions on the object).
 
 * Click on "hole-filling." There are two types of hole filling options. You can select “auto fill” and “fill selected.” Auto fill automatically fills the holes, whereas fill selected allows you to manually select sections to fill. Auto-fill is ideal for filling smaller holes, while it is best to fill any larger holes manually. Usually, it is best to use a combination of these two options. 
 
@@ -91,10 +91,14 @@ You can select the "smooth finish" option. This option diminishes the precision 
 
 Photogrammetry is especially useful when:
 *you are modelling an object that cannot be placed on a rotating table or easily moved from its location
+
 *capturing humans or anything that moves. While it is always an extreme challenge to capture moving objects, the scanner takes about a full second to fully scan a section of an object, whereas a camera is able to capture an image in 1/1000th of a second. So, if you have multiple cameras rotating around an object it is possible to create an accurate model of a human or moving object using photogrammetry.
+
 *you want more control over what information is being input into your model. Although you can weed out scans that you do not want it with Flexscan 3D, you have minimal control over how the scanner captures your object. Before inputting your photos into Photoscan, you can drastically alter the images using the settings on your camera or editing software.
 
 Structured light scanning is especially useful when:
 *you are modelling objects in which the accuracy of the surface texture is integral to the success of the model. The scanner replicates surface texture and patterns with much greater accuracy.
+
 *you are modelling small objects. It is very difficult for agisoft to build a detailed model of smaller objects and to separate small objects from background information in your photographs.
+
 *you want more control over how the models meshes are formed. Although you can select which photographs to use when building a model in Agisoft, you cannot manipulate the meshes as easily as you can with Flexscan. 
