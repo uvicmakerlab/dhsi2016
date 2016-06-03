@@ -263,12 +263,12 @@ For the rest of the session, you can experiment with different combinations of s
 * Flex Sensor: <https://learn.sparkfun.com/tutorials/sik-experiment-guide-for-arduino---v32/experiment-9-using-a-flex-sensor>
 
 ####What other things can Arduinos do? SO MANY things!
-* Botanicalls: Measure moisture in your plant's soil and tweet at you when your plant is thirsty. (<https://www.botanicalls.com/>)
+* Botanicalls by Rob Faludi, Kate Hartman and Kati London: Measure moisture in your plant's soil and tweet at you when your plant is thirsty. (<https://www.botanicalls.com/>)
 * Light up your 3D-printed coat buttons. Project by Ruiz brothers. (<https://learn.adafruit.com/neopixel-coat-buttons>)
 * The Cover That Judges You by Thijs Biersteker: Scan your face for emotions and unlock a book only when you're straight-faced. (<http://thecoverthatjudgesyou.com/>)
 * Spam Poetry by Varvara Guljajeva and Mar Canet Sola: Knit a spam poetry sweater for you. (<http://www.mcanet.info/blog/?p=404>) 
 * Netflix socks: Automatically pause Netflix when you've fallen asleep watching it. (<http://makeit.netflix.com/>)
-* Electronic Popables by Jie Qi, with Leah Buckley and Tshen Chew. (<http://technolojie.com/454/>)
+* Electronic Popables by Jie Qi, with Leah Beuchley and Tshen Chew. (<http://technolojie.com/454/>)
 
 ####Where can I find more Arduino projects and/or tutorials?
 * Arduino: <https://www.arduino.cc/en/Tutorial/HomePage>
