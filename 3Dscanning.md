@@ -2,20 +2,14 @@ What is structured light scanning?
 
 From Wikipedia: "measuring the three-dimensional shape of an object using [projected light patterns](https://en.wikipedia.org/wiki/Structured_light) and a [camera](https://en.wikipedia.org/wiki/Camera) system."
 
-The scanner projects light patterns (in this case, a checkerboard pattern) onto an object to determine the space between certain points on the object. Rather than stitching 2D images together after the fact (as we did with photogrammetry), the scanner creates meshes as it scans an object. 
+The scanner projects light patterns (in this case, a checkerboard pattern) onto an object to determine the space between certain points on the object. Rather than stitching 2D images together after the fact (as Agisoft Photoscan does), the scanner creates meshes as it scans an object. 
 
-Workflow in short: 
-
+###Workflow in short: 
 1. Calibrate table 
-
 2. Adjust exposure 
-
 3. Scan object
-
 4. Combine meshes
-
 5. Fill holes
-
 6. Export model 
 
 Workflow in detail: 
@@ -25,11 +19,8 @@ Workflow in detail:
 To calibrate the rotary table: 
 
 1. Create a new project
-
 2. Click the "enable rotary" checkbox and the program will immediately ask you if you would like to calibrate the table (do not click yes until your calibration board is in place).
-
 3. Stand a 10mm checkered calibration board upright on top of the rotary table (each square on the checkerboard must be 10mm x 10mm). Make sure you can see the entire calibration table in both of your live view windows. 
-
 4. Start the calibration process by pressing "ok." The scanner will project light onto the board and the rotary table will move back and forth in order to detect the edges of the board until a message appears, informing you that the calibration was successful or that you must try again.
 
 **Adjust exposure: **you will need to adjust the exposure levels of your scans every time you scan a different object.
