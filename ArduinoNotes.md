@@ -108,7 +108,7 @@ In this module, we will be using the Arduino for *physical computing*—that is,
 
 * Plug an LED into pin 13 and GND. The longer leg, the Anode (+), should go into pin 13. The shorter leg, the Cathode (-), goes into GND.
 
-![](DHSIArduinoImages/Image1BlinkingLED.png) 
+![](images/ArduinoImages/Image1BlinkingLED.png) 
 
 *Image 1: Blinking LED image from Getting Started with Arduino by Massimo Banzi (<http://phylab.fudan.edu.cn/lib/exe/fetch.php?media=yuandi:arduino:getting_started_with_arduino_v2.pdf>)*
 
@@ -128,7 +128,7 @@ Now that we have the LED blinking, let’s add a button as a digital input senso
 * For more on the breadboard, see here: http://www.instructables.com/id/Breadboard-How-To/
 * Insert the button across the middle bridge on the breadboard. Hook up the bottom left leg of the button to 5V on the Arduino. Hook up the top right leg of the button to digital pin 2. Add the 10k Ohm resistor (brown-black-orange) with one leg along the same path as the bottom right leg of the button, and then connect the other leg of the resistor to GND.
 
-![](DHSIArduinoImages/Image2ButtonFritzing.png)
+![](images/ArduinoImages/Image2ButtonFritzing.png)
 *Image 2: Fritzing Circuit from Arduino Tutorials (<http://www.arduino.cc/en/Tutorial/Button>)*
 
 * Next, open your Arduino IDE and go to *File > Examples > 2. Digital > Button* and open that sketch.
