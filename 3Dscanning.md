@@ -16,8 +16,6 @@ The scanner projects light patterns (in this case, a checkerboard pattern) onto 
 
 **Calibrate table**: while the LMI 100 series scanners come pre-calibrated, the rotary table still needs to be calibrated. Calibration is the most important step in achieving a successful scan as it allows flexscan (the scanner’s accompanying software) to properly align the meshes.
 
-To calibrate the rotary table: 
-
 * Create a new project
 * Click the "enable rotary" checkbox and the program will immediately ask you if you would like to calibrate the table (do not click yes until your calibration board is in place).
 * Stand a 10mm checkered calibration board upright on top of the rotary table (each square on the checkerboard must be 10mm x 10mm). Make sure you can see the entire calibration table in both of your live view windows. 
@@ -90,15 +88,15 @@ You can select the "smooth finish" option. This option diminishes the precision 
 ##Should you use photogrammetry or structured light scanning?
 
 Photogrammetry is especially useful when:
-*you are modelling an object that cannot be placed on a rotating table or easily moved from its location
+* you are modelling an object that cannot be placed on a rotating table or easily moved from its location
 
-*capturing humans or anything that moves. While it is always an extreme challenge to capture moving objects, the scanner takes about a full second to fully scan a section of an object, whereas a camera is able to capture an image in 1/1000th of a second. So, if you have multiple cameras rotating around an object it is possible to create an accurate model of a human or moving object using photogrammetry.
+* capturing humans or anything that moves. While it is always an extreme challenge to capture moving objects, the scanner takes about a full second to fully scan a section of an object, whereas a camera is able to capture an image in 1/1000th of a second. So, if you have multiple cameras rotating around an object it is possible to create an accurate model of a human or moving object using photogrammetry.
 
-*you want more control over what information is being input into your model. Although you can weed out scans that you do not want it with Flexscan 3D, you have minimal control over how the scanner captures your object. Before inputting your photos into Photoscan, you can drastically alter the images using the settings on your camera or editing software.
+* you want more control over what information is being input into your model. Although you can weed out scans that you do not want it with Flexscan 3D, you have minimal control over how the scanner captures your object. Before inputting your photos into Photoscan, you can drastically alter the images using the settings on your camera or editing software.
 
 Structured light scanning is especially useful when:
-*you are modelling objects in which the accuracy of the surface texture is integral to the success of the model. The scanner replicates surface texture and patterns with much greater accuracy.
+* you are modelling objects in which the accuracy of the surface texture is integral to the success of the model. The scanner replicates surface texture and patterns with much greater accuracy.
 
-*you are modelling small objects. It is very difficult for agisoft to build a detailed model of smaller objects and to separate small objects from background information in your photographs.
+* you are modelling small objects. It is very difficult for agisoft to build a detailed model of smaller objects and to separate small objects from background information in your photographs.
 
-*you want more control over how the models meshes are formed. Although you can select which photographs to use when building a model in Agisoft, you cannot manipulate the meshes as easily as you can with Flexscan. 
+* you want more control over how the models meshes are formed. Although you can select which photographs to use when building a model in Agisoft, you cannot manipulate the meshes as easily as you can with Flexscan. 
