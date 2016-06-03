@@ -4,7 +4,7 @@ From Wikipedia: "Photogrammetry is the science of making measurements from photo
 
 With a camera, you’ll take a series of 2D images and use them to measure the distance between certain points on your object in order to create a 3D model. The photographs will be captured from different positions and angles around your object. Then, using Agisoft Photoscan, we’ll stitch together chunks of 2D images into 3D meshes with texture. 
 
-Things to remember while taking your photographs:
+# Things to remember while taking your photographs:
 
 * The type of camera you use does not matter. In fact, mirrorless cameras that operate with fewer megapixels (for example, smartphone cameras) often work better.
 * Lenses are also irrelevant (although, you should avoid fisheye or wide angle lenses).
@@ -19,7 +19,7 @@ Things to remember while taking your photographs:
 * Where possible, create 80% overlap across images. In many ways, such redundancy is conducive to making meshes. 
 * Start with a simple project, say, a batch of 25 images. Often, you don't need a lot of data to create a compelling mesh.
 
-Photoscan workflow in short:
+# Photoscan workflow in short:
 
 1. Add cameras
 2. Align cameras
@@ -27,22 +27,21 @@ Photoscan workflow in short:
 4. Build mesh
 5. Add texture
 
-Photoscan Workflow in detail: 
+# Photoscan Workflow in detail: 
 
-1. Click the "add photos" button on the left (icon is a plus sign with a deck of images behind it).
-2. Select all photos you want in your batch and click open (you will then see the number of cameras, or photos, in your workspace on the left).
-3. If you wish, then you can select images on the right/bottom and use the intelligent scissors to create contours (removing the background) in individual images.
-4. In the menu, select "workflow," "align photos," with medium or high accuracy and --- if the object is static --- uncheck "constrain."
-5. Once processed, you'll see all of your cameras arranged in a sequence; click on a camera to see it.
-6. If you want to reduce the region (or bounding box) around your cameras, click "resize region" (the icon looks like crosshairs over a square). Resize the box with your mouse.
-7. Now return to "workflow" and select "build dense cloud." To save processing time, you can select "medium" quality.
-8. Once the cloud is constructed, return to "workflow" again and "build mesh" (consider these settings: arbitrary, dense cloud, and medium). This process will consume a bit of time.
-9. If you'd like to remove faces from the model, then use the rectangle tool (icon is a square made of dashes) to select unwanted areas and then click the delete selection button (icon is an x).
-10. For the last key step, under "workflow," select "build texture."
-11. With the mesh and texture constructed, in the menu try Tools > Mesh > Map UVs. (UVW is the coordinate system for meshes. U and V are essentially X and Y, respectively.) This tool will rendering your 3D mesh into a series of faces, expressed as a 2D image. It will also give you some important data about your mesh, including density data.
-12. If you want to export your model as a PDF, TIFF, JPG, OBJ (for Rhino or Blender), or 3DS (for SketchUp), then try File > Export.
+* Click the "add photos" button on the left (icon is a plus sign with a deck of images behind it).
+* Select all photos you want in your batch and click open (you will then see the number of cameras, or photos, in your workspace on the left).
+* If you wish, then you can select images on the right/bottom and use the intelligent scissors to create contours (removing the background) in individual images.
+* In the menu, select "workflow," "align photos," with medium or high accuracy and --- if the object is static --- uncheck "constrain."
+* Once processed, you'll see all of your cameras arranged in a sequence; click on a camera to see it.* If you want to reduce the region (or bounding box) around your cameras, click "resize region" (the icon looks like crosshairs over a square). Resize the box with your mouse.
+* Now return to "workflow" and select "build dense cloud." To save processing time, you can select "medium" quality.
+* Once the cloud is constructed, return to "workflow" again and "build mesh" (consider these settings: arbitrary, dense cloud, and medium). This process will consume a bit of time.
+* If you'd like to remove faces from the model, then use the rectangle tool (icon is a square made of dashes) to select unwanted areas and then click the delete selection button (icon is an x).
+* For the last key step, under "workflow," select "build texture."
+* With the mesh and texture constructed, in the menu try Tools > Mesh > Map UVs. (UVW is the coordinate system for meshes. U and V are essentially X and Y, respectively.) This tool will rendering your 3D mesh into a series of faces, expressed as a 2D image. It will also give you some important data about your mesh, including density data.
+* If you want to export your model as a PDF, TIFF, JPG, OBJ (for Rhino or Blender), or 3DS (for SketchUp), then try File > Export.
 
-Photoscan workflow in action: 
+# Photoscan workflow in action: 
 
 The first step in the Photoscan process is photo alignment, where you pinpoint areas that need more or less focus. Here, you can experiment with different combinations of camera points to achieve your desired collection of photographs. This step is especially useful when Photoscan attempts to absorb unwanted sections/objects of your photographs into the model (like other objects in the frame, walls, patterns, harsh light spots, etc).
 
