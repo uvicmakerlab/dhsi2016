@@ -23,7 +23,7 @@ To calibrate the rotary table:
 * Stand a 10mm checkered calibration board upright on top of the rotary table (each square on the checkerboard must be 10mm x 10mm). Make sure you can see the entire calibration table in both of your live view windows. 
 * Start the calibration process by pressing "ok." The scanner will project light onto the board and the rotary table will move back and forth in order to detect the edges of the board until a message appears, informing you that the calibration was successful or that you must try again.
 
-**Adjust exposure: **you will need to adjust the exposure levels of your scans every time you scan a different object.
+**Adjust exposure:** you will need to adjust the exposure levels of your scans every time you scan a different object.
 
 * in the "camera live" video feed you will see your object in either a red or blue tone. If the object is illuminated in blue, your scan will be underexposed. If it is illuminated in red, your scan will be overexposed. Using the “brightness” slider, adjust your exposure higher or lower until there is the least amount of blue or red covering your object. In difficult cases, it is often better to have an overexposed object than an underexposed one. 
 
