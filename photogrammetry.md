@@ -1,4 +1,4 @@
-What is photogrammetry?
+# What is photogrammetry?
 
 From Wikipedia: "Photogrammetry is the science of making measurements from photographs, especially for recovering the exact positions of surface points."
 
