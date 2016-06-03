@@ -7,11 +7,8 @@ We’re going to use photographs to measure the distance between certain points 
 Things to remember while taking your photographs:
 
 * The type of camera you use does not matter. In fact, mirrorless cameras that operate with fewer megapixels (for example, smartphone cameras) often work better.
-
 * Lenses are also irrelevant (although, you should avoid fisheye or wide angle lenses).
-
 * Wherever possible, use a low ISO (say, 100 or 200), to avoid noise and grain in your photos.
-
 * If your camera has a manual mode, then consider using it.
 
 * When working with the natural or built environment, you might encounter hiccups with repetitive, shiny, plain, or reflective surfaces.
