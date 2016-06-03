@@ -55,33 +55,25 @@ The scanner projects light patterns (in this case, a checkerboard pattern) onto 
 
 ##Trouble shooting: 
 
-**The problem**: 
-Flexscan3D cannot fill a complex hole and you are having difficulty filling it manually. 
+**The problem**: Flexscan3D cannot fill a complex hole and you are having difficulty filling it manually. 
 
-**The solution**: 
-You can use the bridge option to break larger/more complex holes into smaller/simpler sections. Drag your mouse from one side of the hole to the other to create a bridge. Continue dividing the hole into simpler sections and clicking "fill selected." To delete a bridge, right click on the point and select “delete.” 
+**The solution**: You can use the bridge option to break larger/more complex holes into smaller/simpler sections. Drag your mouse from one side of the hole to the other to create a bridge. Continue dividing the hole into simpler sections and clicking "fill selected." To delete a bridge, right click on the point and select “delete.” 
 
 ![image alt text](images/3Dscan1.jpg)
 
-**The problem**:  
-The scanner is having difficulty scanning objects with a smooth, shiny, or dark coloured surface.
+**The problem**: The scanner is having difficulty scanning objects with a smooth, shiny, or dark coloured surface.
 
-**The solution:**
-One way to address this problem is by adding texture. Dusting the object with talcum powder, baby powder, or another substance will allow the scanner to more easily pick up the shape of the object. It might also help to place the object on the rotary table on it’s side or at another angle so that the light hits it from a slightly different direction. You can also experiment with the number of rotations the rotary table makes. Sometimes, if you’re having trouble making a more detailed model, lessening the number of rotations helps to build a more basic model.
+**The solution:** One way to address this problem is by adding texture. Dusting the object with talcum powder, baby powder, or another substance will allow the scanner to more easily pick up the shape of the object. It might also help to place the object on the rotary table on it’s side or at another angle so that the light hits it from a slightly different direction. You can also experiment with the number of rotations the rotary table makes. Sometimes, if you’re having trouble making a more detailed model, lessening the number of rotations helps to build a more basic model.
 
-**The problem:** 
-The scanner repeatedly misses a section of your object. 
+**The problem:** The scanner repeatedly misses a section of your object. 
 
-**The solution:**
-If changing the number of rotations the scanner makes and switching up the object’s position on the rotary table does not work, Flexscan 3D allows you to combine several partial scans in order to fill in missing parts. This process is sort of like building a 3D puzzle. 
+**The solution:** If changing the number of rotations the scanner makes and switching up the object’s position on the rotary table does not work, Flexscan 3D allows you to combine several partial scans in order to fill in missing parts. This process is sort of like building a 3D puzzle. 
 
 ![image alt text](images/3Dscan2.jpg)
 
-**The problem:**
-Your model has too many large holes that you cannot fill.
+**The problem:** Your model has too many large holes that you cannot fill.
 
-**The solution:**
-You can select the "smooth finish" option. This option diminishes the precision of your model but it will retain its shape and most of its texture. 
+**The solution:** You can select the "smooth finish" option. This option diminishes the precision of your model but it will retain its shape and most of its texture. 
 
 ![image alt text](images/3Dscan3.jpg)
 
