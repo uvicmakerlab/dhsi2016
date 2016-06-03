@@ -1,10 +1,10 @@
-What is structured light scanning?
+##What is structured light scanning?
 
 From Wikipedia: "measuring the three-dimensional shape of an object using [projected light patterns](https://en.wikipedia.org/wiki/Structured_light) and a [camera](https://en.wikipedia.org/wiki/Camera) system."
 
 The scanner projects light patterns (in this case, a checkerboard pattern) onto an object to determine the space between certain points on the object. Rather than stitching 2D images together after the fact (as Agisoft Photoscan does), the scanner creates meshes as it scans an object. 
 
-###Workflow in short: 
+##Workflow in short: 
 1. Calibrate table 
 2. Adjust exposure 
 3. Scan object
