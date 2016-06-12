@@ -272,7 +272,6 @@ For the rest of the session, you can experiment with different combinations of s
 
 ####What other things can Arduinos do? SO MANY things!
 * Botanicalls by Rob Faludi, Kate Hartman and Kati London: Measure moisture in your plant's soil and tweet at you when your plant is thirsty. (<https://www.botanicalls.com/>)
-* Light up your 3D-printed coat buttons. Project by Ruiz brothers. (<https://learn.adafruit.com/neopixel-coat-buttons>)
 * The Cover That Judges You by Thijs Biersteker: Scan your face for emotions and unlock a book only when you're straight-faced. (<http://thecoverthatjudgesyou.com/>)
 * Spam Poetry by Varvara Guljajeva and Mar Canet Sola: Knit a spam poetry sweater for you. (<http://www.mcanet.info/blog/?p=404>) 
 * Netflix socks: Automatically pause Netflix when you've fallen asleep watching it. (<http://makeit.netflix.com/>)
