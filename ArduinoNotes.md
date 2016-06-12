@@ -270,6 +270,8 @@ For the rest of the session, you can experiment with different combinations of s
 ####Other
 * Arduino Pushbutton Musical Keyboard: <http://www.hjort.co/2016/02/arduino-musical-keyboard.html>
 * RGB LEDs: <https://learn.adafruit.com/adafruit-arduino-lesson-3-rgb-leds/overview>
+* PIR Motion Sensor: <http://www.dummies.com/how-to/content/how-to-detect-movement-with-the-arduino.html>
+  * see also: <http://bildr.org/2011/06/pir_arduino/>
 
 ####What other things can Arduinos do? SO MANY things!
 * Botanicalls by Rob Faludi, Kate Hartman and Kati London: Measure moisture in your plant's soil and tweet at you when your plant is thirsty. (<https://www.botanicalls.com/>)
