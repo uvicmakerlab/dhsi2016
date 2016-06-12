@@ -152,6 +152,7 @@ Now that we have the LED blinking, let’s add a button as a digital input senso
 Now we're going to work with sound instead of light, using a piezo. A piezo is a small device that can both detect and play tones (that is, it can act as a sensor or an actuator). For this exercise, we're going to use it to play a short melody.
 
 <img src="images/ArduinoImages/piezo.jpg" width="600">
+
 *Image of piezo buzzer/sounder care of Adafruit.*
 
 <img src="images/ArduinoImages/playScale.jpg">
