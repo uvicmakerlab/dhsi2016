@@ -257,13 +257,18 @@ For the rest of the session, you can experiment with different combinations of s
 
 ####LCD Displays
 * Print "Hello World!" to the display: <https://www.arduino.cc/en/Tutorial/HelloWorld>
+* More about the display from Adafruit: <https://learn.adafruit.com/adafruit-arduino-lesson-11-lcd-displays-1/overview>
 * Using a temperature sensor, photocell, and potentiometer, measure light level and temperature and print them to the LCD display: <https://learn.adafruit.com/adafruit-arduino-lesson-12-lcd-displays-part-2/overview>
 
 ####Touch/Flex Sensors
 * Capacitive Touch Sensor, using the CapSense library:
-  * with foil: <http://www.instructables.com/id/How-To-Use-Touch-Sensors-With-Arduino/>
+  * with foil: <http://www.instructables.com/id/How-To-Use-Touch-Sensors-With-Arduino/step4/Touch-Controlled-Light-Materials-Required/>
   * with a pencil drawing: <http://www.instructables.com/id/Turn-a-pencil-drawing-into-a-capacitive-sensor-for/>
 * Flex Sensor: <https://learn.sparkfun.com/tutorials/sik-experiment-guide-for-arduino---v32/experiment-9-using-a-flex-sensor>
+ 
+####Other
+* Arduino Pushbutton Musical Keyboard: <http://www.hjort.co/2016/02/arduino-musical-keyboard.html>
+* RGB LEDs: <https://learn.adafruit.com/adafruit-arduino-lesson-3-rgb-leds/overview>
 
 ####What other things can Arduinos do? SO MANY things!
 * Botanicalls by Rob Faludi, Kate Hartman and Kati London: Measure moisture in your plant's soil and tweet at you when your plant is thirsty. (<https://www.botanicalls.com/>)
