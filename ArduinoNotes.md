@@ -180,7 +180,7 @@ Now we're going to work with sound instead of light, using a piezo. A piezo is a
 
 ## <a name="four"></a>Exercise 4 - From Digital to Analog
 
-Next, let’s incorporate analog input. Instead of allowing for only two states (On/Off or High/Low), analog input translates voltage (from 0 to 5 volts) into numbers between 0 and 1024. For this exercise, we're going to use a potentiometer, or "pot," to modify the piezo's pitch.
+Next, let’s incorporate analog input. Instead of allowing for only two states (On/Off or High/Low), analog input translates voltage (from 0 to 5 volts) into numbers between 0 and 1023. For this exercise, we're going to use a potentiometer, or "pot," to modify the piezo's pitch.
 
 <img src="images/ArduinoImages/potentiometer.jpg" />
 
