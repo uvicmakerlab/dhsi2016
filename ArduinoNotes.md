@@ -231,7 +231,8 @@ You can measure many different kinds of analog input (e.g. temperature, light, m
 
 For this sketch, we will use a different actuator—a servo motor—and control its position using a potentiometer. The sketch we wil use will translate the position of the potentiometer into a coordinate that will instruct the servo to rotate its drive shaft to that fixed position.
 
-<img src="images/ArduinoImages/servo.gif" />
+<img src="images/ArduinoImages/servo.gif" width="400"/>
+
 *Image of servo motor (above) care of inexglobal.com*
 <img src="images/ArduinoImages/knob.jpg" width="600" />
 
