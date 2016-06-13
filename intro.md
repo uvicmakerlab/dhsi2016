@@ -20,7 +20,7 @@ With that in mind, here's a list of related research areas. It's certainly not c
 ## Some Ways to Frame Physical Computing and Fabrication through Theory 
 
 * The digital is also physical (exceeds the screen or cannot be reduced to smybolic expression).
-* Materiality is entangled with discourse (language and its conditions cannot be neatly separated from "technical" work) .
+* Materiality and design are entangled with discourse (language and its conditions cannot be neatly separated from "technical" work) .
 * Materiality and perception are embodied (to build interfaces and technologies is to frame or organize perception, with assumptions about people's bodies and behaviours).
 * Physical computing and fabrication work across bits and atoms (we should ask how this becomes that, both culturally and materially). 
 * Tools are not value neutral (they embody and influence culture, and they are congealed forms of labour). 
