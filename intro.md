@@ -12,6 +12,7 @@ With that in mind, here's a list of related research areas. It's certainly not c
 * Interactive installations (many art installations involve microcontroller platforms to respond to or track audience behaviours) 
 * Wearables (most wearable technologies involve physical computing techniques) 
 * Surveillance studies (investigating how the The Internet of Things is intertwined with social, cultural, and technical decisions, including decisions about how people are identified and how security operates) 
+* Assistive technologies (researching norms around/in technologies + interfaces to then build alternatives, including alternatives by + for people with disabilities) 
 * Preservation and restoration (many memory institutions use 3D scanning, modelling, and fabrication to preserve and exhibit 3D objects) 
 * Rapid prototyping (as a method, rapid prototyping stresses the iterative development of ideas and things as processes that can be repeatedly shared with interested groups; this impulse works against interests in ideal or universal forms) 
 * Prototyping the past (using physical computing and fabrication to remake artifacts that no longer exist or no longer function like they once did) 
