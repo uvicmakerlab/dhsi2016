@@ -274,6 +274,7 @@ For the rest of the session, you can experiment with different combinations of s
 * RGB LEDs: <https://learn.adafruit.com/adafruit-arduino-lesson-3-rgb-leds/overview>
 * PIR Motion Sensor: <http://www.dummies.com/how-to/content/how-to-detect-movement-with-the-arduino.html>
   * see also: <http://bildr.org/2011/06/pir_arduino/>
+* Infrared sensor: (scroll down to QRD1114) <http://bildr.org/2011/03/various-proximity-sensors-arduino/>
 * Flex Sensor: <https://learn.sparkfun.com/tutorials/sik-experiment-guide-for-arduino---v32/experiment-9-using-a-flex-sensor>
 
 ####What other things can Arduinos do? SO MANY things!
