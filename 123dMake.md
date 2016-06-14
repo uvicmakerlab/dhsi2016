@@ -46,9 +46,9 @@ Curve works essentially the same way as interlocking slices. The main difference
 
 ![image alt text](images/image_4.png)
 
-##Racial Slices
+##Radial Slices
 
-Racial slices are also interlocking, but they fan out from a central point in the model. 
+Radial slices are also interlocking, but they fan out from a central point in the model. 
 
 ![image alt text](images/image_5.png)
 
