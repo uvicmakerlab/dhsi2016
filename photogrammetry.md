@@ -19,11 +19,6 @@ With a camera, you’ll take a series of 2D images and use them to measure the d
 * Where possible, create 80% overlap across images. In many ways, such redundancy is conducive to making meshes. 
 * Start with a simple project, say, a batch of 25 images. Often, you don't need a lot of data to create a compelling mesh.
 
-#Before you process your photos:
-If you would like to begin modifying your object before you process your photos with Agisoft Photoscan, consider altering your images using photo editing software. Any photo editing software will allow you to play with the contrast levels and brightness. If you want to edit your photographs further, you can use Photoshop to totally modify your object. For example, if you are building a model of a mug, you could add an extra handle. 
-
-You can always do this step after you get more aquainted with Agisoft. 
-
 # Photoscan workflow in short:
 
 1. Add cameras
@@ -63,4 +58,7 @@ Next, you’ll build a mesh and Photoscan will adapt your changes into an accura
 Finally, it’s time to add texture. This step adds texture onto the surface of your modelled object and your mesh begins to look like a thing.
 
 ![image alt text](images/photoscan4.png)
+
+#Modify your model:
+After you get acquainted with Agisoft and have created a couple of models using unaltered photographs, you might want to start thinking about ways to alter your model by digitally manipulating your images. Before running your photographs through the program, consider modifying your images with photo editing software. Any photo editing software will allow you to play with the contrast levels, brightness, and colour. If you want to edit your photographs further, you can use Photoshop (or a similar program) to completely rework your model. For example, you can add or subtract details, distort the image, play around with colouring/brightness/photo quality, add sections of another image to your images, etc.
 
