@@ -27,7 +27,7 @@ In this module, we will be using the Arduino for *physical computing*—that is,
 
 <img src="images/ArduinoImages/interactiveDevice.png"/>
 
-*image from Getting Started with Arduino by Massimo Banzi*
+*Image from* Getting Started with Arduino *by Massimo Banzi*
 
 ## <a name="terminology"></a>Some Terminology
 
@@ -112,7 +112,7 @@ In this module, we will be using the Arduino for *physical computing*—that is,
 
 ![](images/ArduinoImages/Image1BlinkingLED.png) 
 
-*Image 1: Blinking LED image from Getting Started with Arduino by Massimo Banzi (<http://phylab.fudan.edu.cn/lib/exe/fetch.php?media=yuandi:arduino:getting_started_with_arduino_v2.pdf>)*
+*Blinking LED image from Getting Started with Arduino by Massimo Banzi (<http://phylab.fudan.edu.cn/lib/exe/fetch.php?media=yuandi:arduino:getting_started_with_arduino_v2.pdf>)*
 
 * Once it’s hooked up, open the Arduino IDE. We will now insert the code to tell the Arduino what to do.
 * Go to *File > Examples* and select *Blink* under *1. Basics*. This opens a new window with the sketch that tells the Arduino to blink the LED.
@@ -131,7 +131,7 @@ Now that we have the LED blinking, let’s add a button as a digital input senso
 * Insert the button across the middle bridge on the breadboard. Hook up the bottom left leg of the button to 5V on the Arduino. Hook up the top right leg of the button to digital pin 2. Add the 10k Ohm resistor (brown-black-orange) with one leg along the same path as the bottom right leg of the button, and then connect the other leg of the resistor to GND.
 
 ![](images/ArduinoImages/Image2ButtonFritzing.png)
-*Image 2: Fritzing Circuit from Arduino Tutorials (<http://www.arduino.cc/en/Tutorial/Button>)*
+*Fritzing Circuit from Arduino Tutorials (<http://www.arduino.cc/en/Tutorial/Button>)*
 
 * Next, open your Arduino IDE and go to *File > Examples > 2. Digital > Button* and open that sketch.
 * Once the code is uploaded and your circuit is built, connect the Arduino to your computer using the USB cable and make sure the correct board and port are selected (under Tools). In the IDE window, click on the checkmark icon to compile the code and make sure there are no errors. If error messages display in the bottom of your window, let’s troubleshoot.
