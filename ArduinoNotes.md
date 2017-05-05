@@ -135,13 +135,13 @@ Now that we have the LED blinking, let’s add a button as a digital input senso
 * Once the code is uploaded and your circuit is built, connect the Arduino to your computer using the USB cable and make sure the correct board and port are selected (under Tools). In the IDE window, click on the checkmark icon to compile the code and make sure there are no errors. If error messages display in the bottom of your window, let’s troubleshoot.
 * Once your code is free of errors, click on the arrow icon in the IDE window to load the code onto the Arduino. Now try to turn on the LED by pushing the button on the circuit. If it’s not working, review all your connections and we can troubleshoot together.
 
-####Further Experiments
+#### Further Experiments
 * Change the values inside `delay()`, upload, and see what happens
 * Create different patterns of blinking on and off
 * Fade the LED: <https://www.arduino.cc/en/Tutorial/Fade>
 * Count the number of button presses: <https://www.arduino.cc/en/Tutorial/StateChangeDetection>
 
-####Example Projects
+#### Example Projects
 * Spaceship Interface: <https://www.arduino.cc/en/ArduinoStarterKit/Prj02>
 * Colour organ demo: <https://www.youtube.com/watch?v=x5hGF7NsG7Q>
 * Easy LED Colour Organ: <https://www.youtube.com/watch?v=wJlglHS2w74>
@@ -164,14 +164,14 @@ Now we're going to work with sound instead of light, using a piezo. A piezo is a
 * Compile and upload your code. If you get an error, let's troubleshoot.
 * I am piezo, hear me roar!
 
-####More Things to Try
+#### More Things to Try
 * Experiment with different notes and/or melodies by changing the values in the `tones[]` array. (If you change the number of tones, remember to change numTones to match!)
   * Use [this list](http://www.phy.mtu.edu/~suits/notefreqs.html) to find the frequency for each note (C4 = middle C).
   * You can also modify the length of each note by adding a comma and an extra value after `tones[i]` (see the [Reference page](https://www.arduino.cc/en/Reference/Tone) for `tone()`). For example, to play each note for half a second, the whole line would read as `tone(speakerPin, tones[i], 500);`, where 500 is the length in milliseconds.
   * As with Exercise 2, you can also change the value in `delay()` to shorten or lengthen the delay (in milliseconds) between each note.
 * Try incorporating a button into your circuit and sketch so that the sound only plays if you press the button. Hint: you might want to take a look at the code for the Button exercise again (*File > Examples > 2. Digital > Button*).
 
-####Example Projects
+#### Example Projects
 * Knock: <https://www.youtube.com/watch?v=1SNC3ib10_4>. This project uses a piezo as a sensor instead of an actuator.
   * Project page: <https://www.arduino.cc/en/Tutorial/Knock>
 * Morse Code: <http://www.instructables.com/id/Arduino-Morse-Code/>
@@ -196,7 +196,7 @@ Next, let’s incorporate analog input. Instead of allowing for only two states 
 * Twist the potentiometer to change the pitch. To stop playing, unplug the Arduino.
 * Click the magnifying glass at the top right hand corner of the IDE. The window that just popped up is called the Serial Monitor, which communicates information between the board and your laptop—often for the purposes of debugging (analogous to a console for other programming languages). If everything is working, you should see a stream of neverending numbers that correspond to the signal/value of analog pin A0 coming from your pot (this is the value that Arduino is using to calculate the pitch). Twist the pot to watch the number change. The Serial Monitor can be useful for debugging; for instance, if you don't see numbers showing up in the Monitor, then you know the Arduino is not sensing input properly from the pot. To learn more about printing information to the Serial Monitor, see the [AnalogReadSerial exercise](https://www.arduino.cc/en/Tutorial/AnalogReadSerial).
 
-####More Things to Try
+#### More Things to Try
 * Throwback to earlier today when we were blinking LEDs. Try [this exercise](https://github.com/uvicmakerlab/dhsi2015/blob/master/DHSI2015ArduinoNotes.md#exercise-3--using-a-potentiometer-for-analog-input) from last year's DHSI to use the potentiometer to adjust the blinking speed of an LED.
 
 
@@ -219,10 +219,10 @@ You can measure many different kinds of analog input (e.g. temperature, light, m
 * Compile and upload it.
 * Wave your hand or another object over the photocell to vary the pitch. Try moving your hand closer or farther away from the photocell.
 
-####More Things to Try
+#### More Things to Try
 * Throwback to earlier today when we were blinking LEDs. This extra exercise will adjust the blinking speed of an LED with the help of a photocell. Connect an LED to pin 13 and GND as in the Blink exercise. Swap out your 1k ohm resistor for a 10k ohm resistor (brown-black-orange—yes, they are confusingly similar). Open the analogInput sketch by going to *File > Examples > 3. Analog > AnalogInput*. Upload and compile it. Have fun!
 
-####Example Projects
+#### Example Projects
 * Laser Trip Wire by Ronnie Tucker: <https://www.youtube.com/watch?v=efA9lwmE5zA>
 * Little Slide Dress by Emily Steel: <https://www.behance.net/gallery/Little-Slide-Dress/3932109>
 * Sunscreen Reminder Hat by Becky Stern: <https://learn.adafruit.com/sunscreen-reminder-hat/overview>
@@ -243,7 +243,7 @@ For this sketch, we will use a different actuator—a servo motor—and control 
 * Compile and upload the sketch.
 * The servo should automatically rotate to the position indicated by the position of the potentiometer. Try rotating the dial on the potentiometer—the servo should move accordingly. It may or may not shake or vibrate—this just means that it’s receiving too much voltage through the upper limit of the potentiometer. Just rotate the potentiometer until the servo runs smoothly.
 
-####Example Projects
+#### Example Projects
 * Waves of Leaves by Soyoung Park: <http://www.shine-sy.com/wavesofleaves/>
 * Stroboscope/Zoetrope by MrScripster: <https://www.youtube.com/watch?v=fSy2JYkdn-c>
 * Chopping Machine by Simone Giertz: <https://youtu.be/ISPnkVMxkcs?t=1m29s>
@@ -252,16 +252,16 @@ For this sketch, we will use a different actuator—a servo motor—and control 
 
 For the rest of the session, you can experiment with different combinations of sensors, actuators, and code. We also have foil for touch sensors, flex sensors, LCD displays, and temperature sensors. Here are some tutorials to get started:
 
-####Temperature
+#### Temperature
 * Using a Temp Sensor: <https://learn.adafruit.com/tmp36-temperature-sensor/using-a-temp-sensor>
 * Love-o-meter: <http://runningwithcodes.blogspot.ca/2014/02/building-love-o-meter-by-using.html>
 
-####LCD Displays
+#### LCD Displays
 * Print "Hello World!" to the display: <https://www.arduino.cc/en/Tutorial/HelloWorld>
 * More about the display from Adafruit: <https://learn.adafruit.com/adafruit-arduino-lesson-11-lcd-displays-1/overview>
 * Using a temperature sensor, photocell, and potentiometer, measure light level and temperature and print them to the LCD display: <https://learn.adafruit.com/adafruit-arduino-lesson-12-lcd-displays-part-2/overview>
 
-####Touch Sensors
+#### Touch Sensors
 * Capacitive Touch Sensor, using the CapSense library and aluminum foil:
   * General information: <http://playground.arduino.cc/Main/CapacitiveSensor?from=Main.CapSense>
   * Tutorial: <http://www.instructables.com/id/How-To-Use-Touch-Sensors-With-Arduino/step4/Touch-Controlled-Light-Materials-Required/>
@@ -269,7 +269,7 @@ For the rest of the session, you can experiment with different combinations of s
 * With a pencil drawing:
   * <http://www.instructables.com/id/Turn-a-pencil-drawing-into-a-capacitive-sensor-for/>
  
-####Other
+#### Other
 * Arduino Pushbutton Musical Keyboard: <http://www.hjort.co/2016/02/arduino-musical-keyboard.html>
 * RGB LEDs: <https://learn.adafruit.com/adafruit-arduino-lesson-3-rgb-leds/overview>
 * PIR Motion Sensor: <http://www.dummies.com/how-to/content/how-to-detect-movement-with-the-arduino.html>
@@ -277,14 +277,14 @@ For the rest of the session, you can experiment with different combinations of s
 * Infrared sensor: (scroll down to QRD1114) <http://bildr.org/2011/03/various-proximity-sensors-arduino/>
 * Flex Sensor: <https://learn.sparkfun.com/tutorials/sik-experiment-guide-for-arduino---v32/experiment-9-using-a-flex-sensor>
 
-####What other things can Arduinos do? SO MANY things!
+#### What other things can Arduinos do? SO MANY things!
 * Botanicalls by Rob Faludi, Kate Hartman and Kati London: Measure moisture in your plant's soil and tweet at you when your plant is thirsty. (<https://www.botanicalls.com/>)
 * The Cover That Judges You by Thijs Biersteker: Scan your face for emotions and unlock a book only when you're straight-faced. (<http://thecoverthatjudgesyou.com/>)
 * Spam Poetry by Varvara Guljajeva and Mar Canet Sola: Knit a spam poetry sweater for you. (<http://www.mcanet.info/blog/?p=404>) 
 * Netflix socks: Automatically pause Netflix when you've fallen asleep watching it. (<http://makeit.netflix.com/>)
 * Electronic Popables by Jie Qi, with Leah Beuchley and Tshen Chew. (<http://technolojie.com/454/>)
 
-####Where can I find more Arduino projects and/or tutorials?
+#### Where can I find more Arduino projects and/or tutorials?
 * Arduino: <https://www.arduino.cc/en/Tutorial/HomePage>
 * Adafruit: <https://learn.adafruit.com/category/learn-arduino>
 * Sparkfun: <https://learn.sparkfun.com/tutorials/tags/arduino>
