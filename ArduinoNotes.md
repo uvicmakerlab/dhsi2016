@@ -26,7 +26,8 @@ An Arduino is an open source, tiny computer made for tinkering, prototyping. It 
 In this module, we will be using the Arduino for *physical computing*—that is, to sense and interact with the physical world. In practice, this involves converting one form of energy into another: for example, some kind of physical energy (e.g. light, sound, motion) into electrical signals and/or vice versa. When combined with other components or computers (e.g. the [Raspberry Pi](https://www.raspberrypi.org/help/what-is-a-raspberry-pi/)), the Arduino can do even more complicated things. Arduinos are commonly used for home monitoring projects (e.g. tripwire alarm, thermostat), wearables, and robotics. Throughout this module, I will briefly mention some example projects out in the wild that build on concepts we learn.
 
 <img src="images/ArduinoImages/interactiveDevice.png"/>
-*"The Interactive Device," from Getting Started with Arduino by Massimo Banzi.*
+
+*image from Getting Started with Arduino by Massimo Banzi*
 
 ## <a name="terminology"></a>Some Terminology
 
@@ -80,6 +81,7 @@ In this module, we will be using the Arduino for *physical computing*—that is,
 * Analog Out pins 2, 5, 6, 9, 10, 11 - you can program these digital pins to output for analog actuators. (If you look closely, the Analog Out pins have a ~ or # symbol beside the number.)
 
 <img src="images/ArduinoImages/breadboard.jpg">
+
 *Image of the breadboard, care of learn.sparkfun.com*
 
 ### The breadboard:
