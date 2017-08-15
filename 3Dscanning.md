@@ -1,10 +1,10 @@
-##What is structured light scanning?
+## What is structured light scanning?
 
 From Wikipedia: "measuring the three-dimensional shape of an object using [projected light patterns](https://en.wikipedia.org/wiki/Structured_light) and a [camera](https://en.wikipedia.org/wiki/Camera) system."
 
 The scanner projects light patterns (in this case, a checkerboard pattern) onto an object to determine the space between certain points on the object. Rather than stitching 2D images together after the fact (as Agisoft Photoscan does), the scanner creates meshes as it scans an object. 
 
-##Workflow in short: 
+## Workflow in short: 
 1. Calibrate table 
 2. Adjust exposure 
 3. Scan object
@@ -12,7 +12,7 @@ The scanner projects light patterns (in this case, a checkerboard pattern) onto 
 5. Fill holes
 6. Export model 
 
-##Workflow in detail: 
+## Workflow in detail: 
 
 **Calibrate table**: while the LMI 100 series scanners come pre-calibrated, the rotary table still needs to be calibrated. Calibration is the most important step in achieving a successful scan as it allows flexscan (the scanner’s accompanying software) to properly align the meshes.
 
@@ -53,7 +53,7 @@ The scanner projects light patterns (in this case, a checkerboard pattern) onto 
 * Click "export" and select a file type in the drop-down menu (.3D3, .asc, .obj, .ply, .stl, .fbx, .raw, .png, .dep) 
 * Select a folder to save your file into and click "ok" 
 
-##Trouble shooting: 
+## Trouble shooting: 
 
 **The problem**: Flexscan3D cannot fill a complex hole and you are having difficulty filling it manually. 
 
@@ -77,7 +77,7 @@ The scanner projects light patterns (in this case, a checkerboard pattern) onto 
 
 ![image alt text](images/3Dscan3.jpg)
 
-##Should you use photogrammetry or structured light scanning?
+## Should you use photogrammetry or structured light scanning?
 
 **Photogrammetry is especially useful when**:
 * you are modelling an object that cannot be placed on a rotating table or easily moved from its location
