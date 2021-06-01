@@ -1,5 +1,3 @@
-# Physical Computing + Fabrication 
-
 **2016 Digital Humanities Summer Institute** (June 13-17, University of Victoria, http://dhsi.org/)
 
 Instructors: Tiffany Chan, Katherine Goertz, Danielle Morgan, and Jentery Sayers
