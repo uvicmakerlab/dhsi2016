@@ -1,11 +1,11 @@
-#Introduction to 123D Design
+# Introduction to 123D Design
 
 123D Design is a free 3D modeling program. 3D modeling is a key step in the prototyping work cycle. It allows you to envision your project as though it were three dimensional and get a basic idea of how a physical model would appear. We asked you to bring a photo with you today so that you can turn a 2D representation into a 3D model. I've included a simple example below, along with a series of instructions describing the programs many available tools. 
 
 ![image alt text](images/lilbubmodel2.png)
 
 
-##Moving Your Perspective
+## Moving Your Perspective
 
 Orbit - Right click as you move your mouse.
 
@@ -17,7 +17,7 @@ Or select the orbit, panning, or zoom option from the right hand menu. You can a
 
 ![image alt text](images/moveView.png)
 
-##Starting with Solids
+## Starting with Solids
 
 **Selecting a simple object**
 
@@ -219,7 +219,7 @@ You will need to first select the face you want to project onto, at which point 
 ![image alt text](images/project2.png)
 
 
-##Starting from a Sketch
+## Starting from a Sketch
 
 You can start with a primitive sketch from the primitives menu. You can set these on any flat surface (ex. On the grid or on the side of an object).
 
@@ -269,7 +269,7 @@ Then I offset a larger version of the elipsis ourtside my original sketch.
 
 ![image alt text](images/offsetsketch3.png)
 
-##Turning a Sketch into a Solid
+## Turning a Sketch into a Solid
 
 **Extrude your sketch** 
 
@@ -325,7 +325,7 @@ When you extrude a sketch into or past an existing solid it will automatically t
 
 ![image alt text](images/combine.png)
 
-##Prep for Printing
+## Prep for Printing
 
 **Measuring your object**
 
