@@ -1,4 +1,4 @@
-#Introduction to Laser Cutting
+# Introduction to Laser Cutting
 
 A laser cutter uses computer numerical control (CNC) to read graphic information from your computer and cut or engrave it into material using a laser beam. The laser optics are usually set up to direct the laser beam from one angle (usually from the top down). It moves along an X and a Y axis.
 
